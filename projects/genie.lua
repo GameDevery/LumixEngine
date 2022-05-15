@@ -733,7 +733,24 @@ if has_plugin("eeui") then
 	project "eeui"
 		libType()
 
-		files { "../src/eeui/**.h", "../src/eeui/**.cpp", "../src/eeui/graphics/**.h", "../src/eeui/graphics/**.cpp", "../src/eeui/scene/**.h", "../src/eeui/scene/**.cpp", "../src/eeui/ui/**.h", "../src/eeui/ui/**.cpp" }
+		files { 
+            "../src/eeui/**.h", 
+            "../src/eeui/**.cpp", 
+            "../src/eeui/eepp_support/**.h", 
+            "../src/eeui/eepp_support/**.cpp", 
+            "../src/eeui/ui/abstract/**.hpp", 
+            "../src/eeui/ui/abstract/**.cpp", 
+            "../src/eeui/ui/css/**.hpp", 
+            "../src/eeui/ui/css/**.cpp", 
+            "../src/eeui/ui/doc/**.hpp", 
+            "../src/eeui/ui/doc/**.cpp", 
+            "../src/eeui/ui/models/**.hpp", 
+            "../src/eeui/ui/models/**.cpp", 
+            "../src/eeui/ui/tools/**.hpp", 
+            "../src/eeui/ui/tools/**.cpp",
+            "../src/eeui/ui/**.hpp", 
+            "../src/eeui/ui/**.cpp" 
+        }
 		includedirs { "../src", "../src/eeui" }
 		links { "engine", "renderer" }
 		
