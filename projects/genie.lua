@@ -118,6 +118,11 @@ newoption {
 }
 
 newoption {
+	trigger = "no-eeui",
+	description = "Do not build EEUI GUI plugin."
+}
+
+newoption {
 	trigger = "with-app",
 	description = "Do build app."
 }
@@ -195,6 +200,11 @@ end
 if _OPTIONS["no-gui"] == nil then
 	table.insert(plugins, "gui")
 	table.insert(base_plugins, "gui")
+end
+
+if _OPTIONS["no-eeui"] == nil then
+	table.insert(plugins, "eeui")
+	table.insert(base_plugins, "eeui")
 end
 
 if _OPTIONS["no-animation"] == nil then
@@ -706,6 +716,28 @@ if has_plugin("gui") then
 		links { "engine", "renderer" }
 		
 		defines { "BUILDING_GUI" }
+		
+		configuration { "vs*" }
+			links { "winmm", "psapi" }
+		configuration {}
+
+		if build_studio then
+			links { "editor" }
+		end
+	
+		useLua()
+		defaultConfigurations()
+end
+
+if has_plugin("eeui") then
+	project "eeui"
+		libType()
+
+		files { "../src/eeui/**.h", "../src/eeui/**.cpp", "../src/eeui/graphics/**.h", "../src/eeui/graphics/**.cpp", "../src/eeui/scene/**.h", "../src/eeui/scene/**.cpp", "../src/eeui/ui/**.h", "../src/eeui/ui/**.cpp" }
+		includedirs { "../src", "../src/eeui" }
+		links { "engine", "renderer" }
+		
+		defines { "BUILDING_EEUI" }
 		
 		configuration { "vs*" }
 			links { "winmm", "psapi" }
