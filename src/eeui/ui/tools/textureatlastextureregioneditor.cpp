@@ -1,8 +1,8 @@
 #include <eepp/graphics/primitives.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/tools/textureatlaseditor.hpp>
-#include <eepp/ui/tools/textureatlastextureregioneditor.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/tools/textureatlaseditor.hpp>
+#include <eeui/ui/tools/textureatlastextureregioneditor.hpp>
+#include <eeui/ui/uithememanager.hpp>
 
 namespace EE { namespace UI { namespace Tools {
 

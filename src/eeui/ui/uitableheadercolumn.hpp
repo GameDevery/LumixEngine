@@ -1,7 +1,7 @@
 #ifndef EE_UI_UITABLEHEADERCOLUMN_HPP
 #define EE_UI_UITABLEHEADERCOLUMN_HPP
 
-#include <eepp/ui/uipushbutton.hpp>
+#include <eeui/ui/uipushbutton.hpp>
 
 namespace EE { namespace UI {
 

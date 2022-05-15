@@ -1,5 +1,5 @@
-#include <eepp/ui/css/stylesheetselector.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/css/stylesheetselector.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

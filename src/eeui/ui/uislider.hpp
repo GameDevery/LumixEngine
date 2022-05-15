@@ -1,7 +1,7 @@
 #ifndef EE_UIUISlider_HPP
 #define EE_UIUISlider_HPP
 
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

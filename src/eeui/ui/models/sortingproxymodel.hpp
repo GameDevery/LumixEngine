@@ -1,7 +1,7 @@
 #ifndef EE_UI_MODELS_SORTINGPROXYMODEL_HPP
 #define EE_UI_MODELS_SORTINGPROXYMODEL_HPP
 
-#include <eepp/ui/models/model.hpp>
+#include <eeui/ui/models/model.hpp>
 #include <memory>
 
 namespace EE { namespace UI { namespace Models {

@@ -1,6 +1,6 @@
-#include <eepp/ui/uimenu.hpp>
-#include <eepp/ui/uimenucheckbox.hpp>
-#include <eepp/ui/uitheme.hpp>
+#include <eeui/ui/uimenu.hpp>
+#include <eeui/ui/uimenucheckbox.hpp>
+#include <eeui/ui/uitheme.hpp>
 
 namespace EE { namespace UI {
 

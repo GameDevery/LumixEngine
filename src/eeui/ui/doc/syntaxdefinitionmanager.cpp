@@ -1,8 +1,8 @@
 #include <algorithm>
 #include <eepp/system/filesystem.hpp>
 #include <eepp/system/luapattern.hpp>
-#include <eepp/ui/doc/syntaxdefinitionmanager.hpp>
-#include <eepp/ui/uiwidgetcreator.hpp>
+#include <eeui/ui/doc/syntaxdefinitionmanager.hpp>
+#include <eeui/ui/uiwidgetcreator.hpp>
 
 using namespace EE::System;
 

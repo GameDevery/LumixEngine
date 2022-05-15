@@ -1,7 +1,7 @@
 #ifndef EE_UI_UIIMAGE_HPP
 #define EE_UI_UIIMAGE_HPP
 
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

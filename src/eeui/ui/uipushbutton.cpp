@@ -1,10 +1,10 @@
 #include <eepp/graphics/drawablesearcher.hpp>
 #include <eepp/graphics/text.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiicon.hpp>
-#include <eepp/ui/uipushbutton.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiicon.hpp>
+#include <eeui/ui/uipushbutton.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
 
 namespace EE { namespace UI {
 

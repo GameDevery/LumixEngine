@@ -1,5 +1,5 @@
-#include <eepp/ui/models/model.hpp>
-#include <eepp/ui/models/modelindex.hpp>
+#include <eeui/ui/models/model.hpp>
+#include <eeui/ui/models/modelindex.hpp>
 namespace EE { namespace UI { namespace Models {
 
 ModelIndex ModelIndex::sibling( int row, int column ) const {

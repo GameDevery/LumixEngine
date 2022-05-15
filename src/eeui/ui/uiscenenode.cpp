@@ -9,16 +9,16 @@
 #include <eepp/system/functionstring.hpp>
 #include <eepp/system/packmanager.hpp>
 #include <eepp/system/virtualfilesystem.hpp>
-#include <eepp/ui/css/mediaquery.hpp>
-#include <eepp/ui/css/stylesheetparser.hpp>
-#include <eepp/ui/uieventdispatcher.hpp>
-#include <eepp/ui/uiiconthememanager.hpp>
-#include <eepp/ui/uilayout.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
-#include <eepp/ui/uitooltip.hpp>
-#include <eepp/ui/uiwidgetcreator.hpp>
-#include <eepp/ui/uiwindow.hpp>
+#include <eeui/ui/css/mediaquery.hpp>
+#include <eeui/ui/css/stylesheetparser.hpp>
+#include <eeui/ui/uieventdispatcher.hpp>
+#include <eeui/ui/uiiconthememanager.hpp>
+#include <eeui/ui/uilayout.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
+#include <eeui/ui/uitooltip.hpp>
+#include <eeui/ui/uiwidgetcreator.hpp>
+#include <eeui/ui/uiwindow.hpp>
 #include <eepp/window/window.hpp>
 #include <pugixml/pugixml.hpp>
 

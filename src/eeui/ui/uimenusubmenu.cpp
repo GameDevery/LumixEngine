@@ -1,6 +1,6 @@
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/uimenu.hpp>
-#include <eepp/ui/uimenusubmenu.hpp>
+#include <eeui/ui/uimenu.hpp>
+#include <eeui/ui/uimenusubmenu.hpp>
 
 namespace EE { namespace UI {
 

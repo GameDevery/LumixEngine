@@ -1,10 +1,10 @@
 #ifndef EE_UI_TOOLS_UICODEEDITORSPLITTER_HPP
 #define EE_UI_TOOLS_UICODEEDITORSPLITTER_HPP
 
-#include <eepp/ui/uicodeeditor.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uisplitter.hpp>
-#include <eepp/ui/uitabwidget.hpp>
+#include <eeui/ui/uicodeeditor.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uisplitter.hpp>
+#include <eeui/ui/uitabwidget.hpp>
 
 using namespace EE::UI::Doc;
 

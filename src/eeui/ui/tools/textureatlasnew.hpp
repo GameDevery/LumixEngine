@@ -2,12 +2,12 @@
 #define EE_UITOOLSCTEXTUREATLASNEW_HPP
 
 #include <eepp/graphics/texturepacker.hpp>
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/uicheckbox.hpp>
-#include <eepp/ui/uicombobox.hpp>
-#include <eepp/ui/uipushbutton.hpp>
-#include <eepp/ui/uispinbox.hpp>
-#include <eepp/ui/uiwindow.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/uicheckbox.hpp>
+#include <eeui/ui/uicombobox.hpp>
+#include <eeui/ui/uipushbutton.hpp>
+#include <eeui/ui/uispinbox.hpp>
+#include <eeui/ui/uiwindow.hpp>
 
 namespace EE { namespace UI { namespace Tools {
 

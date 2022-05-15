@@ -1,4 +1,4 @@
-#include <eepp/ui/css/stylesheetselectorparser.hpp>
+#include <eeui/ui/css/stylesheetselectorparser.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

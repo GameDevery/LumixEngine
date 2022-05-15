@@ -2,10 +2,10 @@
 #define EE_UI_UIABSTRACTTABLEVIEW_HPP
 
 #include <eepp/math/rect.hpp>
-#include <eepp/ui/abstract/uiabstractview.hpp>
-#include <eepp/ui/uitablecell.hpp>
-#include <eepp/ui/uitableheadercolumn.hpp>
-#include <eepp/ui/uitablerow.hpp>
+#include <eeui/ui/abstract/uiabstractview.hpp>
+#include <eeui/ui/uitablecell.hpp>
+#include <eeui/ui/uitableheadercolumn.hpp>
+#include <eeui/ui/uitablerow.hpp>
 #include <unordered_map>
 
 using namespace EE::Math;

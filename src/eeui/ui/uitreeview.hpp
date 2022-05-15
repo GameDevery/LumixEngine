@@ -1,9 +1,9 @@
 #ifndef EE_UI_UITREEVIEW_HPP
 #define EE_UI_UITREEVIEW_HPP
 
-#include <eepp/ui/abstract/uiabstracttableview.hpp>
-#include <eepp/ui/uiicon.hpp>
-#include <eepp/ui/uitablerow.hpp>
+#include <eeui/ui/abstract/uiabstracttableview.hpp>
+#include <eeui/ui/uiicon.hpp>
+#include <eeui/ui/uitablerow.hpp>
 #include <memory>
 #include <unordered_map>
 

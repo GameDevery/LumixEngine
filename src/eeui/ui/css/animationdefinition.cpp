@@ -1,5 +1,5 @@
-#include <eepp/ui/css/animationdefinition.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/animationdefinition.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

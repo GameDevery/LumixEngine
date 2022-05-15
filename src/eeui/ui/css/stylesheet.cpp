@@ -1,9 +1,9 @@
 #include <algorithm>
 #include <array>
-#include <eepp/ui/css/stylesheet.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/css/stylesheetselector.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/css/stylesheet.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/stylesheetselector.hpp>
+#include <eeui/ui/uiwidget.hpp>
 #include <iostream>
 
 namespace EE { namespace UI { namespace CSS {

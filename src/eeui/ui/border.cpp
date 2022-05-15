@@ -1,6 +1,6 @@
 #include <eepp/graphics/vertexbuffer.hpp>
-#include <eepp/ui/border.hpp>
-#include <eepp/ui/uinode.hpp>
+#include <eeui/ui/border.hpp>
+#include <eeui/ui/uinode.hpp>
 
 namespace EE { namespace UI {
 

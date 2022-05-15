@@ -1,11 +1,11 @@
 #include <eepp/graphics/fontmanager.hpp>
 #include <eepp/graphics/text.hpp>
 #include <eepp/scene/actions/actions.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
-#include <eepp/ui/uitooltip.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
+#include <eeui/ui/uitooltip.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

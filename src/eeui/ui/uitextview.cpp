@@ -3,13 +3,13 @@
 #include <eepp/graphics/primitives.hpp>
 #include <eepp/graphics/text.hpp>
 #include <eepp/scene/actions/actions.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/css/transitiondefinition.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uistyle.hpp>
-#include <eepp/ui/uitextview.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/transitiondefinition.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uistyle.hpp>
+#include <eeui/ui/uitextview.hpp>
+#include <eeui/ui/uithememanager.hpp>
 #include <eepp/window/clipboard.hpp>
 
 namespace EE { namespace UI {

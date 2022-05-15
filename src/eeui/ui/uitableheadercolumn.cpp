@@ -1,6 +1,6 @@
-#include <eepp/ui/abstract/uiabstracttableview.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uitableheadercolumn.hpp>
+#include <eeui/ui/abstract/uiabstracttableview.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uitableheadercolumn.hpp>
 
 namespace EE { namespace UI {
 

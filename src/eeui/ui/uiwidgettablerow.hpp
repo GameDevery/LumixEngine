@@ -1,8 +1,8 @@
 #ifndef EE_UI_UIWIDGETTABLEROW_HPP
 #define EE_UI_UIWIDGETTABLEROW_HPP
 
-#include <eepp/ui/uiitemcontainer.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiitemcontainer.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

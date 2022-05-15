@@ -2,7 +2,7 @@
 #define EE_UI_CSS_PROPERTYIDSET_HPP
 
 #include <bitset>
-#include <eepp/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
 #include <set>
 
 namespace EE { namespace UI { namespace CSS {

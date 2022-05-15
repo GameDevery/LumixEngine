@@ -1,16 +1,16 @@
 #include <algorithm>
 #include <eepp/scene/scenemanager.hpp>
 #include <eepp/system/filesystem.hpp>
-#include <eepp/ui/tools/textureatlaseditor.hpp>
-#include <eepp/ui/tools/textureatlasnew.hpp>
-#include <eepp/ui/tools/textureatlastextureregioneditor.hpp>
-#include <eepp/ui/uifiledialog.hpp>
-#include <eepp/ui/uimenuitem.hpp>
-#include <eepp/ui/uimessagebox.hpp>
-#include <eepp/ui/uipopupmenu.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
-#include <eepp/ui/uiwidgetcreator.hpp>
+#include <eeui/ui/tools/textureatlaseditor.hpp>
+#include <eeui/ui/tools/textureatlasnew.hpp>
+#include <eeui/ui/tools/textureatlastextureregioneditor.hpp>
+#include <eeui/ui/uifiledialog.hpp>
+#include <eeui/ui/uimenuitem.hpp>
+#include <eeui/ui/uimessagebox.hpp>
+#include <eeui/ui/uipopupmenu.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
+#include <eeui/ui/uiwidgetcreator.hpp>
 #include <eepp/window/engine.hpp>
 
 namespace EE { namespace UI { namespace Tools {

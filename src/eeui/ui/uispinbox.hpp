@@ -1,8 +1,8 @@
 #ifndef EE_UICUISPINBOX_HPP
 #define EE_UICUISPINBOX_HPP
 
-#include <eepp/ui/uipushbutton.hpp>
-#include <eepp/ui/uitextinput.hpp>
+#include <eeui/ui/uipushbutton.hpp>
+#include <eeui/ui/uitextinput.hpp>
 
 namespace EE { namespace UI {
 

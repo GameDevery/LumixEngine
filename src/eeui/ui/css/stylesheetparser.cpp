@@ -10,10 +10,10 @@
 #include <eepp/system/pack.hpp>
 #include <eepp/system/packmanager.hpp>
 #include <eepp/system/virtualfilesystem.hpp>
-#include <eepp/ui/css/keyframesdefinition.hpp>
-#include <eepp/ui/css/stylesheetparser.hpp>
-#include <eepp/ui/css/stylesheetpropertiesparser.hpp>
-#include <eepp/ui/css/stylesheetselectorparser.hpp>
+#include <eeui/ui/css/keyframesdefinition.hpp>
+#include <eeui/ui/css/stylesheetparser.hpp>
+#include <eeui/ui/css/stylesheetpropertiesparser.hpp>
+#include <eeui/ui/css/stylesheetselectorparser.hpp>
 
 using namespace EE::Network;
 using namespace EE::System;

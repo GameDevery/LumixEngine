@@ -1,8 +1,8 @@
 #include <eepp/scene/actions/actions.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/uipopupmenu.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/uipopupmenu.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
 
 namespace EE { namespace UI {
 

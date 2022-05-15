@@ -1,4 +1,4 @@
-#include <eepp/ui/keyboardshortcut.hpp>
+#include <eeui/ui/keyboardshortcut.hpp>
 #include <eepp/window/input.hpp>
 
 using namespace EE::Window;

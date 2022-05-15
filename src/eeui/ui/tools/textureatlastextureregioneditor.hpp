@@ -2,9 +2,9 @@
 #define EE_UITOOLSCTEXTUREATLASTEXTUREREGIONEDITOR_HPP
 
 #include <eepp/graphics/textureregion.hpp>
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/uitextureregion.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/uitextureregion.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI { namespace Tools {
 

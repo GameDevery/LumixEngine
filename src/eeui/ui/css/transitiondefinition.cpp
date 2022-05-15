@@ -1,6 +1,6 @@
 #include <eepp/core/string.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/css/transitiondefinition.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/transitiondefinition.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

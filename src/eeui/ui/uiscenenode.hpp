@@ -3,8 +3,8 @@
 
 #include <eepp/scene/scenenode.hpp>
 #include <eepp/system/translator.hpp>
-#include <eepp/ui/css/stylesheet.hpp>
-#include <eepp/ui/keyboardshortcut.hpp>
+#include <eeui/ui/css/stylesheet.hpp>
+#include <eeui/ui/keyboardshortcut.hpp>
 #include <list>
 
 namespace EE { namespace Graphics {

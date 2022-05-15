@@ -1,7 +1,7 @@
 #ifndef EE_UI_CSS_STYLESHEETSELECTORPARSER_HPP
 #define EE_UI_CSS_STYLESHEETSELECTORPARSER_HPP
 
-#include <eepp/ui/css/stylesheetselector.hpp>
+#include <eeui/ui/css/stylesheetselector.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

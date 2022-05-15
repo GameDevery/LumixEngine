@@ -1,7 +1,7 @@
 #ifndef EE_UISCROLLVIEW_HPP
 #define EE_UISCROLLVIEW_HPP
 
-#include <eepp/ui/uitouchdraggablewidget.hpp>
+#include <eeui/ui/uitouchdraggablewidget.hpp>
 
 namespace EE { namespace UI {
 

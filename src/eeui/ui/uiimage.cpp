@@ -1,11 +1,11 @@
 #include <eepp/graphics/drawable.hpp>
 #include <eepp/graphics/drawablesearcher.hpp>
 #include <eepp/graphics/sprite.hpp>
-#include <eepp/ui/css/drawableimageparser.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiicon.hpp>
-#include <eepp/ui/uiimage.hpp>
-#include <eepp/ui/uiscenenode.hpp>
+#include <eeui/ui/css/drawableimageparser.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiicon.hpp>
+#include <eeui/ui/uiimage.hpp>
+#include <eeui/ui/uiscenenode.hpp>
 
 namespace EE { namespace UI {
 

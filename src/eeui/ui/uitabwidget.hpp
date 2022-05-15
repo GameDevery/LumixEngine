@@ -2,8 +2,8 @@
 #define EE_UICUITABWIDGET_HPP
 
 #include <deque>
-#include <eepp/ui/uitab.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uitab.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

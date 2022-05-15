@@ -3,8 +3,8 @@
 
 #include <eepp/math/ease.hpp>
 #include <eepp/system/time.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/css/stylesheetstyle.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/stylesheetstyle.hpp>
 #include <map>
 #include <vector>
 

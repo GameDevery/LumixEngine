@@ -1,15 +1,15 @@
 #include <algorithm>
 #include <eepp/system/filesystem.hpp>
 #include <eepp/system/log.hpp>
-#include <eepp/ui/models/filesystemmodel.hpp>
-#include <eepp/ui/models/sortingproxymodel.hpp>
-#include <eepp/ui/uifiledialog.hpp>
-#include <eepp/ui/uilinearlayout.hpp>
-#include <eepp/ui/uilistboxitem.hpp>
-#include <eepp/ui/uimessagebox.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uistyle.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/models/filesystemmodel.hpp>
+#include <eeui/ui/models/sortingproxymodel.hpp>
+#include <eeui/ui/uifiledialog.hpp>
+#include <eeui/ui/uilinearlayout.hpp>
+#include <eeui/ui/uilistboxitem.hpp>
+#include <eeui/ui/uimessagebox.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uistyle.hpp>
+#include <eeui/ui/uithememanager.hpp>
 
 namespace EE { namespace UI {
 

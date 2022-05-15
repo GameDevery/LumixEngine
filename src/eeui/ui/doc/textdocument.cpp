@@ -8,8 +8,8 @@
 #include <eepp/system/log.hpp>
 #include <eepp/system/luapattern.hpp>
 #include <eepp/system/packmanager.hpp>
-#include <eepp/ui/doc/syntaxdefinitionmanager.hpp>
-#include <eepp/ui/doc/textdocument.hpp>
+#include <eeui/ui/doc/syntaxdefinitionmanager.hpp>
+#include <eeui/ui/doc/textdocument.hpp>
 #include <sstream>
 #include <string>
 

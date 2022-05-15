@@ -5,7 +5,7 @@
 #include <eepp/graphics/drawable.hpp>
 #include <eepp/graphics/drawableresource.hpp>
 #include <eepp/math/rect.hpp>
-#include <eepp/ui/uiicon.hpp>
+#include <eeui/ui/uiicon.hpp>
 #include <string>
 
 using namespace EE::Graphics;

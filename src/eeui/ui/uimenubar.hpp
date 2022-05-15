@@ -1,10 +1,10 @@
 #ifndef EE_UI_UIMENUBAR_HPP
 #define EE_UI_UIMENUBAR_HPP
 
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/uipopupmenu.hpp>
-#include <eepp/ui/uiselectbutton.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/uipopupmenu.hpp>
+#include <eeui/ui/uiselectbutton.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

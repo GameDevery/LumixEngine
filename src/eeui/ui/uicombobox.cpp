@@ -1,5 +1,5 @@
 #include <eepp/graphics/textureregion.hpp>
-#include <eepp/ui/uicombobox.hpp>
+#include <eeui/ui/uicombobox.hpp>
 
 namespace EE { namespace UI {
 

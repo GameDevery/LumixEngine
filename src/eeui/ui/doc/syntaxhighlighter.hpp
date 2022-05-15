@@ -1,8 +1,8 @@
 #ifndef EE_UI_DOC_SYNTAXHIGHLIGHTER_HPP
 #define EE_UI_DOC_SYNTAXHIGHLIGHTER_HPP
 
-#include <eepp/ui/doc/syntaxtokenizer.hpp>
-#include <eepp/ui/doc/textdocument.hpp>
+#include <eeui/ui/doc/syntaxtokenizer.hpp>
+#include <eeui/ui/doc/textdocument.hpp>
 #include <map>
 
 namespace EE { namespace UI { namespace Doc {

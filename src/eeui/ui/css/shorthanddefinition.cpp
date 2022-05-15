@@ -1,8 +1,8 @@
 #include <algorithm>
 #include <eepp/core.hpp>
 #include <eepp/system/color.hpp>
-#include <eepp/ui/css/shorthanddefinition.hpp>
-#include <eepp/ui/css/stylesheetspecification.hpp>
+#include <eeui/ui/css/shorthanddefinition.hpp>
+#include <eeui/ui/css/stylesheetspecification.hpp>
 
 using namespace EE::System;
 

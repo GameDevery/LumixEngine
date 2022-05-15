@@ -1,6 +1,6 @@
 #include <eepp/scene/eventdispatcher.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uisplitter.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uisplitter.hpp>
 
 namespace EE { namespace UI {
 

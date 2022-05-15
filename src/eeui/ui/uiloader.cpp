@@ -1,7 +1,7 @@
 #include <eepp/graphics/renderer/renderer.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiloader.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiloader.hpp>
 
 namespace EE { namespace UI {
 

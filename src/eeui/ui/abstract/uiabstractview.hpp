@@ -1,10 +1,10 @@
 #ifndef EE_UI_UIABSTRACTVIEW_HPP
 #define EE_UI_UIABSTRACTVIEW_HPP
 
-#include <eepp/ui/models/model.hpp>
-#include <eepp/ui/models/modeleditingdelegate.hpp>
-#include <eepp/ui/models/modelselection.hpp>
-#include <eepp/ui/uiscrollablewidget.hpp>
+#include <eeui/ui/models/model.hpp>
+#include <eeui/ui/models/modeleditingdelegate.hpp>
+#include <eeui/ui/models/modelselection.hpp>
+#include <eeui/ui/uiscrollablewidget.hpp>
 #include <memory>
 
 using namespace EE::UI::Models;

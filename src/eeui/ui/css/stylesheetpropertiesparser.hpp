@@ -2,8 +2,8 @@
 #define EE_UI_CSS_STYLESHEETPROPERTIESPARSER_HPP
 
 #include <eepp/core/string.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/css/stylesheetvariable.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/stylesheetvariable.hpp>
 #include <map>
 #include <vector>
 

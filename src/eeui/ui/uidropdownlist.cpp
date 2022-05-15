@@ -1,10 +1,10 @@
 #include <eepp/scene/actions/actions.hpp>
 #include <eepp/scene/scenemanager.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uidropdownlist.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uidropdownlist.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
 #include <pugixml/pugixml.hpp>
 
 namespace EE { namespace UI {

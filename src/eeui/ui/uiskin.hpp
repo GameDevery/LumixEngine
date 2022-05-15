@@ -2,7 +2,7 @@
 #define EE_UICUISKIN_HPP
 
 #include <eepp/graphics/statelistdrawable.hpp>
-#include <eepp/ui/base.hpp>
+#include <eeui/ui/base.hpp>
 
 namespace EE { namespace UI {
 

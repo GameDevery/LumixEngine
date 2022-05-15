@@ -1,8 +1,8 @@
 #ifndef EE_UI_UITABLECELL_HPP
 #define EE_UI_UITABLECELL_HPP
 
-#include <eepp/ui/models/modelindex.hpp>
-#include <eepp/ui/uipushbutton.hpp>
+#include <eeui/ui/models/modelindex.hpp>
+#include <eeui/ui/uipushbutton.hpp>
 
 using namespace EE::UI::Models;
 

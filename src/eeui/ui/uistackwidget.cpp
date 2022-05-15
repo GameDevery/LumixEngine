@@ -1,4 +1,4 @@
-#include <eepp/ui/uistackwidget.hpp>
+#include <eeui/ui/uistackwidget.hpp>
 
 namespace EE { namespace UI {
 

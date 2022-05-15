@@ -1,10 +1,10 @@
 #include <algorithm>
 #include <eepp/math/easing.hpp>
-#include <eepp/ui/border.hpp>
-#include <eepp/ui/css/stylesheetpropertyanimation.hpp>
-#include <eepp/ui/css/stylesheetspecification.hpp>
-#include <eepp/ui/uinodedrawable.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/border.hpp>
+#include <eeui/ui/css/stylesheetpropertyanimation.hpp>
+#include <eeui/ui/css/stylesheetspecification.hpp>
+#include <eeui/ui/uinodedrawable.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 using namespace EE::Math::easing;
 

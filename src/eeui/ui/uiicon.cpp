@@ -1,5 +1,5 @@
 #include <eepp/graphics/fonttruetype.hpp>
-#include <eepp/ui/uiicon.hpp>
+#include <eeui/ui/uiicon.hpp>
 
 namespace EE { namespace UI {
 

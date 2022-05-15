@@ -1,7 +1,7 @@
 ﻿#ifndef EE_UI_UIGRIDLAYOUT
 #define EE_UI_UIGRIDLAYOUT
 
-#include <eepp/ui/uilayout.hpp>
+#include <eeui/ui/uilayout.hpp>
 
 namespace EE { namespace UI {
 

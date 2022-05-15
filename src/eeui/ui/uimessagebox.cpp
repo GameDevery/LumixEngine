@@ -1,8 +1,8 @@
-#include <eepp/ui/uilinearlayout.hpp>
-#include <eepp/ui/uimessagebox.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uistyle.hpp>
-#include <eepp/ui/uitheme.hpp>
+#include <eeui/ui/uilinearlayout.hpp>
+#include <eeui/ui/uimessagebox.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uistyle.hpp>
+#include <eeui/ui/uitheme.hpp>
 
 namespace EE { namespace UI {
 

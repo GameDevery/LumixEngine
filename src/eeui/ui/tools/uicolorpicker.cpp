@@ -7,10 +7,10 @@
 #include <eepp/scene/actions/fade.hpp>
 #include <eepp/scene/scenemanager.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/css/stylesheetparser.hpp>
-#include <eepp/ui/tools/uicolorpicker.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/css/stylesheetparser.hpp>
+#include <eeui/ui/tools/uicolorpicker.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
 
 namespace EE { namespace UI { namespace Tools {
 

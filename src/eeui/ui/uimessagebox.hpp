@@ -1,11 +1,11 @@
 #ifndef EE_UICUIMESSAGEBOX_HPP
 #define EE_UICUIMESSAGEBOX_HPP
 
-#include <eepp/ui/uilayout.hpp>
-#include <eepp/ui/uipushbutton.hpp>
-#include <eepp/ui/uitextinput.hpp>
-#include <eepp/ui/uitextview.hpp>
-#include <eepp/ui/uiwindow.hpp>
+#include <eeui/ui/uilayout.hpp>
+#include <eeui/ui/uipushbutton.hpp>
+#include <eeui/ui/uitextinput.hpp>
+#include <eeui/ui/uitextview.hpp>
+#include <eeui/ui/uiwindow.hpp>
 
 namespace EE { namespace UI {
 

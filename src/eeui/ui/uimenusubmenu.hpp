@@ -1,7 +1,7 @@
 #ifndef EE_CUIMENUSUBMENU_HPP
 #define EE_CUIMENUSUBMENU_HPP
 
-#include <eepp/ui/uimenuitem.hpp>
+#include <eeui/ui/uimenuitem.hpp>
 
 namespace EE { namespace UI {
 

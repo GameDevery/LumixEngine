@@ -11,17 +11,17 @@
 #include <eepp/scene/actions/scale.hpp>
 #include <eepp/scene/scenemanager.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/css/stylesheetspecification.hpp>
-#include <eepp/ui/uiborderdrawable.hpp>
-#include <eepp/ui/uinode.hpp>
-#include <eepp/ui/uinodedrawable.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uiskin.hpp>
-#include <eepp/ui/uiskinstate.hpp>
-#include <eepp/ui/uistate.hpp>
-#include <eepp/ui/uitheme.hpp>
-#include <eepp/ui/uithememanager.hpp>
-#include <eepp/ui/uiwindow.hpp>
+#include <eeui/ui/css/stylesheetspecification.hpp>
+#include <eeui/ui/uiborderdrawable.hpp>
+#include <eeui/ui/uinode.hpp>
+#include <eeui/ui/uinodedrawable.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uiskin.hpp>
+#include <eeui/ui/uiskinstate.hpp>
+#include <eeui/ui/uistate.hpp>
+#include <eeui/ui/uitheme.hpp>
+#include <eeui/ui/uithememanager.hpp>
+#include <eeui/ui/uiwindow.hpp>
 #include <eepp/window/engine.hpp>
 
 namespace EE { namespace UI {

@@ -1,8 +1,8 @@
 #ifndef EE_UI_MODELEDITINGDELEGATE_HPP
 #define EE_UI_MODELEDITINGDELEGATE_HPP
 
-#include <eepp/ui/models/model.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/models/model.hpp>
+#include <eeui/ui/uiwidget.hpp>
 #include <memory>
 
 namespace EE { namespace UI { namespace Models {

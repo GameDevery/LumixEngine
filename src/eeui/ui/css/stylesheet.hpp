@@ -1,10 +1,10 @@
 #ifndef EE_UI_CSS_STYLESHEET_HPP
 #define EE_UI_CSS_STYLESHEET_HPP
 
-#include <eepp/ui/css/elementdefinition.hpp>
-#include <eepp/ui/css/keyframesdefinition.hpp>
-#include <eepp/ui/css/mediaquery.hpp>
-#include <eepp/ui/css/stylesheetstyle.hpp>
+#include <eeui/ui/css/elementdefinition.hpp>
+#include <eeui/ui/css/keyframesdefinition.hpp>
+#include <eeui/ui/css/mediaquery.hpp>
+#include <eeui/ui/css/stylesheetstyle.hpp>
 #include <memory>
 #include <unordered_map>
 

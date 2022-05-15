@@ -1,5 +1,5 @@
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uigridlayout.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uigridlayout.hpp>
 
 namespace EE { namespace UI {
 

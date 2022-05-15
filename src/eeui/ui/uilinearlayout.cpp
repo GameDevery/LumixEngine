@@ -1,6 +1,6 @@
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uilinearlayout.hpp>
-#include <eepp/ui/uiscenenode.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uilinearlayout.hpp>
+#include <eeui/ui/uiscenenode.hpp>
 
 namespace EE { namespace UI {
 

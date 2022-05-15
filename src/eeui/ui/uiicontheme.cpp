@@ -1,5 +1,5 @@
 #include <eepp/core/core.hpp>
-#include <eepp/ui/uiicontheme.hpp>
+#include <eeui/ui/uiicontheme.hpp>
 
 namespace EE { namespace UI {
 

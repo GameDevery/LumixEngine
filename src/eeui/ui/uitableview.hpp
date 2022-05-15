@@ -1,7 +1,7 @@
 #ifndef EE_UI_UITABLEVIEW_HPP
 #define EE_UI_UITABLEVIEW_HPP
 
-#include <eepp/ui/abstract/uiabstracttableview.hpp>
+#include <eeui/ui/abstract/uiabstracttableview.hpp>
 
 using namespace EE::UI::Abstract;
 

@@ -3,12 +3,12 @@
 
 #include <eepp/graphics/fontstyleconfig.hpp>
 #include <eepp/math/ease.hpp>
-#include <eepp/ui/css/animationdefinition.hpp>
-#include <eepp/ui/css/elementdefinition.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/css/stylesheetstyle.hpp>
-#include <eepp/ui/css/transitiondefinition.hpp>
-#include <eepp/ui/uistate.hpp>
+#include <eeui/ui/css/animationdefinition.hpp>
+#include <eeui/ui/css/elementdefinition.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/stylesheetstyle.hpp>
+#include <eeui/ui/css/transitiondefinition.hpp>
+#include <eeui/ui/uistate.hpp>
 #include <functional>
 #include <set>
 #include <unordered_set>

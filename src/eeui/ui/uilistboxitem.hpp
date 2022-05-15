@@ -1,8 +1,8 @@
 #ifndef EE_UICUILISTBOXITEM_HPP
 #define EE_UICUILISTBOXITEM_HPP
 
-#include <eepp/ui/uiitemcontainer.hpp>
-#include <eepp/ui/uitextview.hpp>
+#include <eeui/ui/uiitemcontainer.hpp>
+#include <eeui/ui/uitextview.hpp>
 
 namespace EE { namespace UI {
 

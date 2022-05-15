@@ -1,6 +1,6 @@
 #include <eepp/system/luapattern.hpp>
-#include <eepp/ui/doc/syntaxdefinitionmanager.hpp>
-#include <eepp/ui/doc/syntaxtokenizer.hpp>
+#include <eeui/ui/doc/syntaxdefinitionmanager.hpp>
+#include <eeui/ui/doc/syntaxtokenizer.hpp>
 
 using namespace EE::System;
 

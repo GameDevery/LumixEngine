@@ -1,7 +1,7 @@
 #ifndef EE_UICUITEXTINPUTPASSWORD_HPP
 #define EE_UICUITEXTINPUTPASSWORD_HPP
 
-#include <eepp/ui/uitextinput.hpp>
+#include <eeui/ui/uitextinput.hpp>
 
 namespace EE { namespace UI {
 

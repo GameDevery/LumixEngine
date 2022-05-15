@@ -1,7 +1,7 @@
 #ifndef EE_UICUIMENUITEM_HPP
 #define EE_UICUIMENUITEM_HPP
 
-#include <eepp/ui/uipushbutton.hpp>
+#include <eeui/ui/uipushbutton.hpp>
 
 namespace EE { namespace UI {
 

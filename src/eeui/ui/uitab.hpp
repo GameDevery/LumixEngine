@@ -1,7 +1,7 @@
 #ifndef EE_UICUITAB_HPP
 #define EE_UICUITAB_HPP
 
-#include <eepp/ui/uiselectbutton.hpp>
+#include <eeui/ui/uiselectbutton.hpp>
 
 namespace EE { namespace UI {
 

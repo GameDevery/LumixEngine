@@ -1,5 +1,5 @@
-#include <eepp/ui/uiskin.hpp>
-#include <eepp/ui/uiskinstate.hpp>
+#include <eeui/ui/uiskin.hpp>
+#include <eeui/ui/uiskinstate.hpp>
 
 namespace EE { namespace UI {
 

@@ -1,6 +1,6 @@
 #include <algorithm>
-#include <eepp/ui/css/stylesheetselectorrule.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/css/stylesheetselectorrule.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

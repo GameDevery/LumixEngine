@@ -1,6 +1,6 @@
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiscrollbar.hpp>
-#include <eepp/ui/uiscrollview.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiscrollbar.hpp>
+#include <eeui/ui/uiscrollview.hpp>
 
 namespace EE { namespace UI {
 

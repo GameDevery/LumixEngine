@@ -1,4 +1,4 @@
-#include <eepp/ui/css/elementdefinition.hpp>
+#include <eeui/ui/css/elementdefinition.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

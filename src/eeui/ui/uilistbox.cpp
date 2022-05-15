@@ -1,13 +1,13 @@
 #include <eepp/graphics/font.hpp>
 #include <eepp/graphics/fontmanager.hpp>
 #include <eepp/graphics/text.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiitemcontainer.hpp>
-#include <eepp/ui/uilistbox.hpp>
-#include <eepp/ui/uilistboxitem.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uistyle.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiitemcontainer.hpp>
+#include <eeui/ui/uilistbox.hpp>
+#include <eeui/ui/uilistboxitem.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uistyle.hpp>
+#include <eeui/ui/uithememanager.hpp>
 #include <eepp/window/input.hpp>
 #include <pugixml/pugixml.hpp>
 

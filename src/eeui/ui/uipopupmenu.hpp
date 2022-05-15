@@ -1,7 +1,7 @@
 #ifndef EE_UICUIPOPUPMENU
 #define EE_UICUIPOPUPMENU
 
-#include <eepp/ui/uimenu.hpp>
+#include <eeui/ui/uimenu.hpp>
 
 namespace EE { namespace UI {
 

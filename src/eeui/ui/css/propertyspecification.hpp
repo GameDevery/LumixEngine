@@ -2,8 +2,8 @@
 #define EE_UI_CSS_PROPERTYSPECIFICATION_HPP
 
 #include <eepp/system/singleton.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/css/shorthanddefinition.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/shorthanddefinition.hpp>
 #include <memory>
 #include <unordered_map>
 

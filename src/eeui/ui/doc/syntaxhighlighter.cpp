@@ -1,6 +1,6 @@
-#include <eepp/ui/doc/syntaxdefinitionmanager.hpp>
-#include <eepp/ui/doc/syntaxhighlighter.hpp>
-#include <eepp/ui/doc/syntaxtokenizer.hpp>
+#include <eeui/ui/doc/syntaxdefinitionmanager.hpp>
+#include <eeui/ui/doc/syntaxhighlighter.hpp>
+#include <eeui/ui/doc/syntaxtokenizer.hpp>
 
 namespace EE { namespace UI { namespace Doc {
 

@@ -1,7 +1,7 @@
 #include <eepp/graphics/primitives.hpp>
 #include <eepp/graphics/vertexbuffer.hpp>
-#include <eepp/ui/uibackgrounddrawable.hpp>
-#include <eepp/ui/uinode.hpp>
+#include <eeui/ui/uibackgrounddrawable.hpp>
+#include <eeui/ui/uinode.hpp>
 
 namespace EE { namespace UI {
 

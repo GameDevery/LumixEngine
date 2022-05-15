@@ -1,11 +1,11 @@
 #include <deque>
 #include <eepp/graphics/renderer/renderer.hpp>
 #include <eepp/system/lock.hpp>
-#include <eepp/ui/uilinearlayout.hpp>
-#include <eepp/ui/uipushbutton.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uiscrollbar.hpp>
-#include <eepp/ui/uitreeview.hpp>
+#include <eeui/ui/uilinearlayout.hpp>
+#include <eeui/ui/uipushbutton.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uiscrollbar.hpp>
+#include <eeui/ui/uitreeview.hpp>
 
 namespace EE { namespace UI {
 

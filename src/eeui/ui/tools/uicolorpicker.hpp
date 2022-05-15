@@ -1,15 +1,15 @@
 #ifndef EE_UI_TOOLS_UICOLORPICKER_HPP
 #define EE_UI_TOOLS_UICOLORPICKER_HPP
 
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/uilinearlayout.hpp>
-#include <eepp/ui/uipushbutton.hpp>
-#include <eepp/ui/uirelativelayout.hpp>
-#include <eepp/ui/uislider.hpp>
-#include <eepp/ui/uispinbox.hpp>
-#include <eepp/ui/uitextview.hpp>
-#include <eepp/ui/uiwidget.hpp>
-#include <eepp/ui/uiwindow.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/uilinearlayout.hpp>
+#include <eeui/ui/uipushbutton.hpp>
+#include <eeui/ui/uirelativelayout.hpp>
+#include <eeui/ui/uislider.hpp>
+#include <eeui/ui/uispinbox.hpp>
+#include <eeui/ui/uitextview.hpp>
+#include <eeui/ui/uiwidget.hpp>
+#include <eeui/ui/uiwindow.hpp>
 
 namespace EE { namespace UI { namespace Tools {
 

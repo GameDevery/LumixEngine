@@ -2,7 +2,7 @@
 #define EE_UICUITEXTEDIT_HPP
 
 #include <eepp/graphics/text.hpp>
-#include <eepp/ui/uicodeeditor.hpp>
+#include <eeui/ui/uicodeeditor.hpp>
 
 namespace EE { namespace UI {
 

@@ -1,6 +1,6 @@
 #include <eepp/core/core.hpp>
-#include <eepp/ui/doc/textdocument.hpp>
-#include <eepp/ui/doc/undostack.hpp>
+#include <eeui/ui/doc/textdocument.hpp>
+#include <eeui/ui/doc/undostack.hpp>
 
 using namespace EE::System;
 

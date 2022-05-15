@@ -1,6 +1,6 @@
 #include <eepp/graphics/textureregion.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiscrollbar.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiscrollbar.hpp>
 
 namespace EE { namespace UI {
 

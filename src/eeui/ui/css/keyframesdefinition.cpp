@@ -1,4 +1,4 @@
-#include <eepp/ui/css/keyframesdefinition.hpp>
+#include <eeui/ui/css/keyframesdefinition.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

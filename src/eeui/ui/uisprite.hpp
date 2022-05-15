@@ -1,7 +1,7 @@
 #ifndef EE_UICUISPRITE_HPP
 #define EE_UICUISPRITE_HPP
 
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace Graphics {
 class Sprite;

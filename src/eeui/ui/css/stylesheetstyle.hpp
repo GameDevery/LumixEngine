@@ -1,11 +1,11 @@
 #ifndef EE_UI_CSS_STYLESHEETSTYLE_HPP
 #define EE_UI_CSS_STYLESHEETSTYLE_HPP
 
-#include <eepp/ui/css/mediaquery.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/css/stylesheetselector.hpp>
-#include <eepp/ui/css/stylesheetvariable.hpp>
+#include <eeui/ui/css/mediaquery.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/stylesheetselector.hpp>
+#include <eeui/ui/css/stylesheetvariable.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

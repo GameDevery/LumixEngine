@@ -3,8 +3,8 @@
 
 #include <atomic>
 #include <eepp/system/fileinfo.hpp>
-#include <eepp/ui/models/model.hpp>
-#include <eepp/ui/uiicon.hpp>
+#include <eeui/ui/models/model.hpp>
+#include <eeui/ui/uiicon.hpp>
 #include <memory>
 
 namespace EE { namespace UI { namespace Models {

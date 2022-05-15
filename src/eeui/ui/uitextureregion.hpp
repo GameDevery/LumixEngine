@@ -1,7 +1,7 @@
 #ifndef EE_UICUIGFX_H
 #define EE_UICUIGFX_H
 
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace Graphics {
 class TextureRegion;

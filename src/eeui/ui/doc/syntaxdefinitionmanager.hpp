@@ -3,7 +3,7 @@
 
 #include <eepp/config.hpp>
 #include <eepp/system/singleton.hpp>
-#include <eepp/ui/doc/syntaxdefinition.hpp>
+#include <eeui/ui/doc/syntaxdefinition.hpp>
 #include <vector>
 
 namespace EE { namespace UI { namespace Doc {

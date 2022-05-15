@@ -1,7 +1,7 @@
 #include <eepp/graphics/textureregion.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uispinbox.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uispinbox.hpp>
 #include <limits>
 
 namespace EE { namespace UI {

@@ -2,7 +2,7 @@
 #define STYLESHEETSELECTORRULE_HPP
 
 #include <eepp/core.hpp>
-#include <eepp/ui/css/stylesheetspecification.hpp>
+#include <eeui/ui/css/stylesheetspecification.hpp>
 
 namespace EE { namespace UI {
 class UIWidget;

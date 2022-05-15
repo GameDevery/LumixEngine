@@ -1,7 +1,7 @@
 #ifndef EE_UICUIMENUCHECKBOX_HPP
 #define EE_UICUIMENUCHECKBOX_HPP
 
-#include <eepp/ui/uimenuitem.hpp>
+#include <eeui/ui/uimenuitem.hpp>
 
 namespace EE { namespace UI {
 

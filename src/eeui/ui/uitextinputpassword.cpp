@@ -1,7 +1,7 @@
 #include <eepp/graphics/font.hpp>
 #include <eepp/graphics/text.hpp>
-#include <eepp/ui/uitextinputpassword.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/uitextinputpassword.hpp>
+#include <eeui/ui/uithememanager.hpp>
 
 namespace EE { namespace UI {
 

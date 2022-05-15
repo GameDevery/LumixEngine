@@ -1,6 +1,6 @@
-#include <eepp/ui/css/propertyspecification.hpp>
-#include <eepp/ui/css/stylesheetspecification.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/css/propertyspecification.hpp>
+#include <eeui/ui/css/stylesheetspecification.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

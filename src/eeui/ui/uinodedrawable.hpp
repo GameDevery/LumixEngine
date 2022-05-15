@@ -4,7 +4,7 @@
 #include <eepp/graphics/drawable.hpp>
 #include <eepp/math/ease.hpp>
 #include <eepp/scene/action.hpp>
-#include <eepp/ui/uibackgrounddrawable.hpp>
+#include <eeui/ui/uibackgrounddrawable.hpp>
 #include <map>
 #include <vector>
 

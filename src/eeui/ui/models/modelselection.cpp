@@ -1,6 +1,6 @@
 #include <eepp/core.hpp>
-#include <eepp/ui/abstract/uiabstractview.hpp>
-#include <eepp/ui/models/modelselection.hpp>
+#include <eeui/ui/abstract/uiabstractview.hpp>
+#include <eeui/ui/models/modelselection.hpp>
 
 namespace EE { namespace UI { namespace Models {
 

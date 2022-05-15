@@ -1,10 +1,10 @@
 #ifndef EE_UICUIWINDOW_HPP
 #define EE_UICUIWINDOW_HPP
 
-#include <eepp/ui/keyboardshortcut.hpp>
-#include <eepp/ui/uipushbutton.hpp>
-#include <eepp/ui/uitextview.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/keyboardshortcut.hpp>
+#include <eeui/ui/uipushbutton.hpp>
+#include <eeui/ui/uitextview.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace Graphics {
 class FrameBuffer;

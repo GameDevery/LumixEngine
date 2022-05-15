@@ -1,5 +1,5 @@
-#include <eepp/ui/uiwidgettable.hpp>
-#include <eepp/ui/uiwidgettablerow.hpp>
+#include <eeui/ui/uiwidgettable.hpp>
+#include <eeui/ui/uiwidgettablerow.hpp>
 
 namespace EE { namespace UI {
 

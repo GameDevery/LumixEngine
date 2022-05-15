@@ -1,7 +1,7 @@
 #include <algorithm>
 #include <eepp/system/filesystem.hpp>
-#include <eepp/ui/tools/uicodeeditorsplitter.hpp>
-#include <eepp/ui/uimessagebox.hpp>
+#include <eeui/ui/tools/uicodeeditorsplitter.hpp>
+#include <eeui/ui/uimessagebox.hpp>
 #include <eepp/window/displaymanager.hpp>
 #include <eepp/window/engine.hpp>
 

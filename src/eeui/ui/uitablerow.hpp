@@ -1,8 +1,8 @@
 #ifndef EE_UI_UITABLEROW_HPP
 #define EE_UI_UITABLEROW_HPP
 
-#include <eepp/ui/models/modelindex.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/models/modelindex.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 using namespace EE::UI::Models;
 

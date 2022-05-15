@@ -1,8 +1,8 @@
 #include <algorithm>
-#include <eepp/ui/abstract/uiabstractview.hpp>
-#include <eepp/ui/models/modelselection.hpp>
-#include <eepp/ui/models/sortingproxymodel.hpp>
-#include <eepp/ui/models/variant.hpp>
+#include <eeui/ui/abstract/uiabstractview.hpp>
+#include <eeui/ui/models/modelselection.hpp>
+#include <eeui/ui/models/sortingproxymodel.hpp>
+#include <eeui/ui/models/variant.hpp>
 
 using namespace EE::UI::Abstract;
 

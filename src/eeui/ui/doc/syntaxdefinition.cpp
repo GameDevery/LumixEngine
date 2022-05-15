@@ -1,6 +1,6 @@
 #include <eepp/core/memorymanager.hpp>
 #include <eepp/core/string.hpp>
-#include <eepp/ui/doc/syntaxdefinition.hpp>
+#include <eeui/ui/doc/syntaxdefinition.hpp>
 
 namespace EE { namespace UI { namespace Doc {
 

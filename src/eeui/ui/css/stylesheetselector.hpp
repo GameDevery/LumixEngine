@@ -1,7 +1,7 @@
 #ifndef EE_UI_CSS_STYLESHEETSELECTOR_HPP
 #define EE_UI_CSS_STYLESHEETSELECTOR_HPP
 
-#include <eepp/ui/css/stylesheetselectorrule.hpp>
+#include <eeui/ui/css/stylesheetselectorrule.hpp>
 
 namespace EE { namespace UI {
 class UIWidget;

@@ -3,7 +3,7 @@
 
 #include <eepp/config.hpp>
 #include <eepp/core/string.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
 #include <functional>
 
 namespace EE { namespace UI { namespace CSS {

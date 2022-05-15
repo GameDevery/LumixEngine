@@ -1,5 +1,5 @@
 #include <eepp/system/thread.hpp>
-#include <eepp/ui/abstract/uiabstractview.hpp>
+#include <eeui/ui/abstract/uiabstractview.hpp>
 #include <eepp/window/engine.hpp>
 
 namespace EE { namespace UI { namespace Abstract {

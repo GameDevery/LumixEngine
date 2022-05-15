@@ -10,11 +10,11 @@
 #include <eepp/system/pack.hpp>
 #include <eepp/system/threadpool.hpp>
 #include <eepp/system/time.hpp>
-#include <eepp/ui/doc/syntaxdefinition.hpp>
-#include <eepp/ui/doc/textdocumentline.hpp>
-#include <eepp/ui/doc/textposition.hpp>
-#include <eepp/ui/doc/textrange.hpp>
-#include <eepp/ui/doc/undostack.hpp>
+#include <eeui/ui/doc/syntaxdefinition.hpp>
+#include <eeui/ui/doc/textdocumentline.hpp>
+#include <eeui/ui/doc/textposition.hpp>
+#include <eeui/ui/doc/textrange.hpp>
+#include <eeui/ui/doc/undostack.hpp>
 #include <functional>
 #include <map>
 #include <unordered_set>

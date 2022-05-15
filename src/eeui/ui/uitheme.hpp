@@ -2,11 +2,11 @@
 #define EE_UICUITHEME_HPP
 
 #include <eepp/system/resourcemanager.hpp>
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/css/stylesheet.hpp>
-#include <eepp/ui/uifontstyleconfig.hpp>
-#include <eepp/ui/uihelper.hpp>
-#include <eepp/ui/uiskin.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/css/stylesheet.hpp>
+#include <eeui/ui/uifontstyleconfig.hpp>
+#include <eeui/ui/uihelper.hpp>
+#include <eeui/ui/uiskin.hpp>
 
 namespace EE { namespace Graphics {
 class Sprite;

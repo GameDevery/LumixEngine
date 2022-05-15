@@ -1,5 +1,5 @@
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiwidgettable.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiwidgettable.hpp>
 #include <pugixml/pugixml.hpp>
 
 namespace EE { namespace UI {

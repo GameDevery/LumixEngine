@@ -3,9 +3,9 @@
 
 #include <eepp/system/lock.hpp>
 #include <eepp/system/mutex.hpp>
-#include <eepp/ui/models/modelindex.hpp>
-#include <eepp/ui/models/modelrole.hpp>
-#include <eepp/ui/models/variant.hpp>
+#include <eeui/ui/models/modelindex.hpp>
+#include <eeui/ui/models/modelrole.hpp>
+#include <eeui/ui/models/variant.hpp>
 #include <functional>
 #include <memory>
 #include <stack>

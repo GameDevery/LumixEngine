@@ -3,10 +3,10 @@
 #include <eepp/graphics/renderer/renderer.hpp>
 #include <eepp/math/easing.hpp>
 #include <eepp/system/functionstring.hpp>
-#include <eepp/ui/css/stylesheetlength.hpp>
-#include <eepp/ui/css/stylesheetspecification.hpp>
-#include <eepp/ui/uinode.hpp>
-#include <eepp/ui/uinodedrawable.hpp>
+#include <eeui/ui/css/stylesheetlength.hpp>
+#include <eeui/ui/css/stylesheetspecification.hpp>
+#include <eeui/ui/uinode.hpp>
+#include <eeui/ui/uinodedrawable.hpp>
 using namespace EE::Math::easing;
 
 namespace EE { namespace UI {

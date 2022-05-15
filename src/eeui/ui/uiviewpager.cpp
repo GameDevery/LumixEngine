@@ -1,5 +1,5 @@
 #include <eepp/scene/actions/move.hpp>
-#include <eepp/ui/uiviewpager.hpp>
+#include <eeui/ui/uiviewpager.hpp>
 
 namespace EE { namespace UI {
 

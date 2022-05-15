@@ -1,7 +1,7 @@
 #include <eepp/graphics/text.hpp>
 #include <eepp/graphics/textureregion.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uicheckbox.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uicheckbox.hpp>
 
 namespace EE { namespace UI {
 

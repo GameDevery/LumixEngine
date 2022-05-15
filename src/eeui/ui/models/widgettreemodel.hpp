@@ -2,7 +2,7 @@
 #define EE_UI_MODELS_WIDGETTREEMODEL_HPP
 
 #include <eepp/scene/node.hpp>
-#include <eepp/ui/models/model.hpp>
+#include <eeui/ui/models/model.hpp>
 #include <memory>
 
 using namespace EE::UI;

@@ -2,7 +2,7 @@
 #define EE_UI_UIBACKGROUNDDRAWABLE_HPP
 
 #include <eepp/graphics/drawable.hpp>
-#include <eepp/ui/border.hpp>
+#include <eeui/ui/border.hpp>
 
 using namespace EE::Graphics;
 

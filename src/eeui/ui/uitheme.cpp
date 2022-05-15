@@ -9,11 +9,11 @@
 #include <eepp/graphics/textureatlasmanager.hpp>
 #include <eepp/graphics/texturefactory.hpp>
 #include <eepp/system/filesystem.hpp>
-#include <eepp/ui/css/stylesheetparser.hpp>
-#include <eepp/ui/uiicontheme.hpp>
-#include <eepp/ui/uistate.hpp>
-#include <eepp/ui/uitheme.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/css/stylesheetparser.hpp>
+#include <eeui/ui/uiicontheme.hpp>
+#include <eeui/ui/uistate.hpp>
+#include <eeui/ui/uitheme.hpp>
+#include <eeui/ui/uithememanager.hpp>
 
 namespace EE { namespace UI {
 

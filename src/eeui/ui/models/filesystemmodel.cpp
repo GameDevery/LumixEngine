@@ -1,9 +1,9 @@
 #include <eepp/scene/scenemanager.hpp>
 #include <eepp/system/filesystem.hpp>
 #include <eepp/system/sys.hpp>
-#include <eepp/ui/abstract/uiabstractview.hpp>
-#include <eepp/ui/models/filesystemmodel.hpp>
-#include <eepp/ui/uiscenenode.hpp>
+#include <eeui/ui/abstract/uiabstractview.hpp>
+#include <eeui/ui/models/filesystemmodel.hpp>
+#include <eeui/ui/uiscenenode.hpp>
 
 #ifndef INDEX_ALREADY_EXISTS
 #define INDEX_ALREADY_EXISTS eeINDEX_NOT_FOUND

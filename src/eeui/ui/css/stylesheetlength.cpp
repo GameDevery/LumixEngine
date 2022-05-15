@@ -1,7 +1,7 @@
 #include <eepp/core/string.hpp>
 #include <eepp/graphics/pixeldensity.hpp>
 #include <eepp/math/math.hpp>
-#include <eepp/ui/css/stylesheetlength.hpp>
+#include <eeui/ui/css/stylesheetlength.hpp>
 
 using namespace EE::Graphics;
 

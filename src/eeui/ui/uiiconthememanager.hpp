@@ -1,7 +1,7 @@
 #ifndef EE_UI_UIICONTHEMEMANAGER_HPP
 #define EE_UI_UIICONTHEMEMANAGER_HPP
 
-#include <eepp/ui/uiicontheme.hpp>
+#include <eeui/ui/uiicontheme.hpp>
 #include <vector>
 
 namespace EE { namespace UI {

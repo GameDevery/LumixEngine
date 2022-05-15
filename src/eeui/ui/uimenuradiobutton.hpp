@@ -1,7 +1,7 @@
 #ifndef EE_UI_UIMENURADIOBUTTON_HPP
 #define EE_UI_UIMENURADIOBUTTON_HPP
 
-#include <eepp/ui/uimenuitem.hpp>
+#include <eeui/ui/uimenuitem.hpp>
 
 namespace EE { namespace UI {
 

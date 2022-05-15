@@ -2,7 +2,7 @@
 #define EE_UIHELPER_HPP
 
 #include <eepp/graphics/font.hpp>
-#include <eepp/ui/base.hpp>
+#include <eeui/ui/base.hpp>
 
 using namespace EE::Graphics;
 

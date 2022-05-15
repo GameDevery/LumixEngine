@@ -1,6 +1,6 @@
 #include <algorithm>
 #include <eepp/core/string.hpp>
-#include <eepp/ui/css/stylesheetvariable.hpp>
+#include <eeui/ui/css/stylesheetvariable.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

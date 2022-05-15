@@ -2,7 +2,7 @@
 #define EE_UI_UIICONTHEME_HPP
 
 #include <eepp/graphics/drawable.hpp>
-#include <eepp/ui/uiicon.hpp>
+#include <eeui/ui/uiicon.hpp>
 #include <unordered_map>
 
 using namespace EE::Graphics;

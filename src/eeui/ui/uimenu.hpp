@@ -2,12 +2,12 @@
 #define EE_UICUIMENU_HPP
 
 #include <deque>
-#include <eepp/ui/uimenucheckbox.hpp>
-#include <eepp/ui/uimenuitem.hpp>
-#include <eepp/ui/uimenuradiobutton.hpp>
-#include <eepp/ui/uimenuseparator.hpp>
-#include <eepp/ui/uimenusubmenu.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uimenucheckbox.hpp>
+#include <eeui/ui/uimenuitem.hpp>
+#include <eeui/ui/uimenuradiobutton.hpp>
+#include <eeui/ui/uimenuseparator.hpp>
+#include <eeui/ui/uimenusubmenu.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

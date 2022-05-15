@@ -1,7 +1,7 @@
 #ifndef EE_UI_MODELS_ITEMLISTMODEL_HPP
 #define EE_UI_MODELS_ITEMLISTMODEL_HPP
 
-#include <eepp/ui/models/model.hpp>
+#include <eeui/ui/models/model.hpp>
 #include <memory>
 #include <vector>
 

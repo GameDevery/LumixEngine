@@ -1,7 +1,7 @@
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uitab.hpp>
-#include <eepp/ui/uitabwidget.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uitab.hpp>
+#include <eeui/ui/uitabwidget.hpp>
 
 namespace EE { namespace UI {
 

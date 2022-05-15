@@ -3,8 +3,8 @@
 
 #include <eepp/config.hpp>
 #include <eepp/core/core.hpp>
-#include <eepp/ui/models/modelrole.hpp>
-#include <eepp/ui/models/variant.hpp>
+#include <eeui/ui/models/modelrole.hpp>
+#include <eeui/ui/models/variant.hpp>
 #include <limits>
 
 namespace EE { namespace UI { namespace Models {

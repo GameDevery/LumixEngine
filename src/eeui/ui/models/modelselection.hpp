@@ -2,7 +2,7 @@
 #define EE_UI_MODEL_MODELSELECTION_HPP
 
 #include <algorithm>
-#include <eepp/ui/models/modelindex.hpp>
+#include <eeui/ui/models/modelindex.hpp>
 #include <functional>
 #include <unordered_set>
 

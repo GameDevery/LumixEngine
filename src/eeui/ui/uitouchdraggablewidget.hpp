@@ -1,7 +1,7 @@
 #ifndef EE_UITOUCHDRAGGABLEWIDGET_HPP
 #define EE_UITOUCHDRAGGABLEWIDGET_HPP
 
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

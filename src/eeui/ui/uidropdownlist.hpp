@@ -1,8 +1,8 @@
 #ifndef EE_UICUIDROPDOWNLIST_HPP
 #define EE_UICUIDROPDOWNLIST_HPP
 
-#include <eepp/ui/uilistbox.hpp>
-#include <eepp/ui/uitextinput.hpp>
+#include <eeui/ui/uilistbox.hpp>
+#include <eeui/ui/uitextinput.hpp>
 
 namespace EE { namespace UI {
 

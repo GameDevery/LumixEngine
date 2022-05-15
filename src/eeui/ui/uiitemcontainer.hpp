@@ -2,7 +2,7 @@
 #define EE_UITUIITEMCONTAINER_HPP
 
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

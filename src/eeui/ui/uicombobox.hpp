@@ -1,7 +1,7 @@
 #ifndef EE_UICUICOMBOBOX_HPP
 #define EE_UICUICOMBOBOX_HPP
 
-#include <eepp/ui/uidropdownlist.hpp>
+#include <eeui/ui/uidropdownlist.hpp>
 
 namespace EE { namespace UI {
 

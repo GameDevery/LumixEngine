@@ -3,9 +3,9 @@
 
 #include <eepp/math/ease.hpp>
 #include <eepp/scene/action.hpp>
-#include <eepp/ui/css/animationdefinition.hpp>
-#include <eepp/ui/css/keyframesdefinition.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/animationdefinition.hpp>
+#include <eeui/ui/css/keyframesdefinition.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
 
 using namespace EE::Math;
 using namespace EE::Scene;

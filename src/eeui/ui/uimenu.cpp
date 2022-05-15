@@ -1,11 +1,11 @@
 #include <eepp/graphics/drawablesearcher.hpp>
 #include <eepp/graphics/font.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiiconthememanager.hpp>
-#include <eepp/ui/uimenu.hpp>
-#include <eepp/ui/uipopupmenu.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiiconthememanager.hpp>
+#include <eeui/ui/uimenu.hpp>
+#include <eeui/ui/uipopupmenu.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
 #include <pugixml/pugixml.hpp>
 
 namespace EE { namespace UI {

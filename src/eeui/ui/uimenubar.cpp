@@ -1,9 +1,9 @@
 #include <eepp/graphics/textureregion.hpp>
 #include <eepp/scene/scenemanager.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uimenubar.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uimenubar.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
 #include <pugixml/pugixml.hpp>
 
 namespace EE { namespace UI {

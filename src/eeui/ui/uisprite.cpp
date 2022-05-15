@@ -2,8 +2,8 @@
 #include <eepp/graphics/globaltextureatlas.hpp>
 #include <eepp/graphics/sprite.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uisprite.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uisprite.hpp>
 
 namespace EE { namespace UI {
 

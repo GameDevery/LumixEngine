@@ -1,6 +1,6 @@
-#include <eepp/ui/uieventdispatcher.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uieventdispatcher.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uiwidget.hpp>
 #include <eepp/window/inputevent.hpp>
 #include <eepp/window/window.hpp>
 

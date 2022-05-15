@@ -1,7 +1,7 @@
 #ifndef EE_UICUISEPARATOR
 #define EE_UICUISEPARATOR
 
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

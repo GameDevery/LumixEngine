@@ -1,12 +1,12 @@
 ﻿#ifndef EE_UI_UICODEEDIT_HPP
 #define EE_UI_UICODEEDIT_HPP
 
-#include <eepp/ui/doc/syntaxcolorscheme.hpp>
-#include <eepp/ui/doc/syntaxhighlighter.hpp>
-#include <eepp/ui/doc/textdocument.hpp>
-#include <eepp/ui/keyboardshortcut.hpp>
-#include <eepp/ui/uifontstyleconfig.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/doc/syntaxcolorscheme.hpp>
+#include <eeui/ui/doc/syntaxhighlighter.hpp>
+#include <eeui/ui/doc/textdocument.hpp>
+#include <eeui/ui/keyboardshortcut.hpp>
+#include <eeui/ui/uifontstyleconfig.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 using namespace EE::Graphics;
 using namespace EE::UI::Doc;

@@ -4,8 +4,8 @@
 #include <eepp/graphics/drawablesearcher.hpp>
 #include <eepp/graphics/rectangledrawable.hpp>
 #include <eepp/graphics/triangledrawable.hpp>
-#include <eepp/ui/css/drawableimageparser.hpp>
-#include <eepp/ui/uinode.hpp>
+#include <eeui/ui/css/drawableimageparser.hpp>
+#include <eeui/ui/uinode.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

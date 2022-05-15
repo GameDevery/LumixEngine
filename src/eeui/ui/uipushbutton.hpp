@@ -1,9 +1,9 @@
 #ifndef EE_UICUIPUSHBUTTON_HPP
 #define EE_UICUIPUSHBUTTON_HPP
 
-#include <eepp/ui/uiimage.hpp>
-#include <eepp/ui/uitextview.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiimage.hpp>
+#include <eeui/ui/uitextview.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

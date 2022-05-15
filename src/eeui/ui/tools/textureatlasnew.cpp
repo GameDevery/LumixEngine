@@ -1,11 +1,11 @@
 #include <SOIL2/src/SOIL2/stb_image.h>
 #include <eepp/scene/scenemanager.hpp>
 #include <eepp/system/filesystem.hpp>
-#include <eepp/ui/tools/textureatlasnew.hpp>
-#include <eepp/ui/uifiledialog.hpp>
-#include <eepp/ui/uimessagebox.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/tools/textureatlasnew.hpp>
+#include <eeui/ui/uifiledialog.hpp>
+#include <eeui/ui/uimessagebox.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uithememanager.hpp>
 
 namespace EE { namespace UI { namespace Tools {
 

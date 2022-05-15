@@ -5,13 +5,13 @@
 #include <eepp/graphics/textureatlasmanager.hpp>
 #include <eepp/graphics/texturepacker.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/uidropdownlist.hpp>
-#include <eepp/ui/uigridlayout.hpp>
-#include <eepp/ui/uilistbox.hpp>
-#include <eepp/ui/uimenubar.hpp>
-#include <eepp/ui/uispinbox.hpp>
-#include <eepp/ui/uiwindow.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/uidropdownlist.hpp>
+#include <eeui/ui/uigridlayout.hpp>
+#include <eeui/ui/uilistbox.hpp>
+#include <eeui/ui/uimenubar.hpp>
+#include <eeui/ui/uispinbox.hpp>
+#include <eeui/ui/uiwindow.hpp>
 
 namespace EE { namespace UI { namespace Tools {
 

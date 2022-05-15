@@ -1,8 +1,8 @@
 #include <eepp/graphics/globaltextureatlas.hpp>
 #include <eepp/graphics/textureatlasmanager.hpp>
 #include <eepp/graphics/textureregion.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uitextureregion.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uitextureregion.hpp>
 
 namespace EE { namespace UI {
 

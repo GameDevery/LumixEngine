@@ -1,10 +1,10 @@
 #ifndef EE_UICUITEXTINPUT_H
 #define EE_UICUITEXTINPUT_H
 
-#include <eepp/ui/doc/textdocument.hpp>
-#include <eepp/ui/keyboardshortcut.hpp>
-#include <eepp/ui/uinode.hpp>
-#include <eepp/ui/uitextview.hpp>
+#include <eeui/ui/doc/textdocument.hpp>
+#include <eeui/ui/keyboardshortcut.hpp>
+#include <eeui/ui/uinode.hpp>
+#include <eeui/ui/uitextview.hpp>
 #include <eepp/window/inputtextbuffer.hpp>
 
 using namespace EE::UI::Doc;

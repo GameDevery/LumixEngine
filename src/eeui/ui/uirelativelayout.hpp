@@ -1,7 +1,7 @@
 #ifndef UI_UIRELATIVELAYOUT_HPP
 #define UI_UIRELATIVELAYOUT_HPP
 
-#include <eepp/ui/uilayout.hpp>
+#include <eeui/ui/uilayout.hpp>
 
 namespace EE { namespace UI {
 

@@ -1,6 +1,6 @@
 #include <eepp/math/rect.hpp>
-#include <eepp/ui/css/stylesheetpropertiesparser.hpp>
-#include <eepp/ui/css/stylesheetspecification.hpp>
+#include <eeui/ui/css/stylesheetpropertiesparser.hpp>
+#include <eeui/ui/css/stylesheetspecification.hpp>
 
 using namespace EE::UI;
 

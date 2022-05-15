@@ -1,9 +1,9 @@
 #ifndef EE_UI_UIMULTIMODELVIEW_HPP
 #define EE_UI_UIMULTIMODELVIEW_HPP
 
-#include <eepp/ui/uilistview.hpp>
-#include <eepp/ui/uistackwidget.hpp>
-#include <eepp/ui/uitableview.hpp>
+#include <eeui/ui/uilistview.hpp>
+#include <eeui/ui/uistackwidget.hpp>
+#include <eeui/ui/uitableview.hpp>
 
 namespace EE { namespace UI {
 

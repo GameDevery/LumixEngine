@@ -1,8 +1,8 @@
 #ifndef EE_UICUIRADIOBUTTON_H
 #define EE_UICUIRADIOBUTTON_H
 
-#include <eepp/ui/uipushbutton.hpp>
-#include <eepp/ui/uitextview.hpp>
+#include <eeui/ui/uipushbutton.hpp>
+#include <eeui/ui/uitextview.hpp>
 
 namespace EE { namespace UI {
 

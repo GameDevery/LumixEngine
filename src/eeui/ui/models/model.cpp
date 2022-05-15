@@ -1,6 +1,6 @@
-#include <eepp/ui/abstract/uiabstractview.hpp>
-#include <eepp/ui/models/model.hpp>
-#include <eepp/ui/models/persistentmodelindex.hpp>
+#include <eeui/ui/abstract/uiabstractview.hpp>
+#include <eeui/ui/models/model.hpp>
+#include <eeui/ui/models/persistentmodelindex.hpp>
 
 namespace EE { namespace UI { namespace Models {
 

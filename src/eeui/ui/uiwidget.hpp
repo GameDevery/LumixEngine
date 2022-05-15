@@ -1,10 +1,10 @@
 #ifndef EE_UIUIWIDGET_HPP
 #define EE_UIUIWIDGET_HPP
 
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/css/stylesheetselector.hpp>
-#include <eepp/ui/uinode.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/stylesheetselector.hpp>
+#include <eeui/ui/uinode.hpp>
 
 namespace pugi {
 class xml_node;

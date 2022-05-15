@@ -1,7 +1,7 @@
 #ifndef EE_UI_UISKINSTATE_HPP
 #define EE_UI_UISKINSTATE_HPP
 
-#include <eepp/ui/uistate.hpp>
+#include <eeui/ui/uistate.hpp>
 
 namespace EE { namespace UI {
 

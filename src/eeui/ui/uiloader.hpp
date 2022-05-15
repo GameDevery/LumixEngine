@@ -3,7 +3,7 @@
 
 #include <eepp/graphics/arcdrawable.hpp>
 #include <eepp/graphics/circledrawable.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

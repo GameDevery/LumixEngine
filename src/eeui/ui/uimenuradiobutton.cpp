@@ -1,6 +1,6 @@
-#include <eepp/ui/uimenu.hpp>
-#include <eepp/ui/uimenuradiobutton.hpp>
-#include <eepp/ui/uitheme.hpp>
+#include <eeui/ui/uimenu.hpp>
+#include <eeui/ui/uimenuradiobutton.hpp>
+#include <eeui/ui/uitheme.hpp>
 
 namespace EE { namespace UI {
 

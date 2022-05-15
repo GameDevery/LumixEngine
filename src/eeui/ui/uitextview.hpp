@@ -2,8 +2,8 @@
 #define EE_UICUITEXTBOX_H
 
 #include <eepp/graphics/text.hpp>
-#include <eepp/ui/uifontstyleconfig.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uifontstyleconfig.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

@@ -1,11 +1,11 @@
 #ifndef EE_UICUIGENERICGRID_HPP
 #define EE_UICUIGENERICGRID_HPP
 
-#include <eepp/ui/uiitemcontainer.hpp>
-#include <eepp/ui/uinode.hpp>
-#include <eepp/ui/uiscrollbar.hpp>
-#include <eepp/ui/uitouchdraggablewidget.hpp>
-#include <eepp/ui/uiwidgettablerow.hpp>
+#include <eeui/ui/uiitemcontainer.hpp>
+#include <eeui/ui/uinode.hpp>
+#include <eeui/ui/uiscrollbar.hpp>
+#include <eeui/ui/uitouchdraggablewidget.hpp>
+#include <eeui/ui/uiwidgettablerow.hpp>
 
 namespace EE { namespace UI {
 

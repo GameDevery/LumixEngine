@@ -2,7 +2,7 @@
 #define EE_UI_UIWIDGETCREATOR_HPP
 
 #include <eepp/core.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {
 

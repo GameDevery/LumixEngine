@@ -1,17 +1,17 @@
 #ifndef EE_UI_UIFILEDIALOG_HPP
 #define EE_UI_UIFILEDIALOG_HPP
 
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/keyboardshortcut.hpp>
-#include <eepp/ui/models/filesystemmodel.hpp>
-#include <eepp/ui/uicombobox.hpp>
-#include <eepp/ui/uilistview.hpp>
-#include <eepp/ui/uimultimodelview.hpp>
-#include <eepp/ui/uipushbutton.hpp>
-#include <eepp/ui/uiselectbutton.hpp>
-#include <eepp/ui/uitextinput.hpp>
-#include <eepp/ui/uiwidget.hpp>
-#include <eepp/ui/uiwindow.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/keyboardshortcut.hpp>
+#include <eeui/ui/models/filesystemmodel.hpp>
+#include <eeui/ui/uicombobox.hpp>
+#include <eeui/ui/uilistview.hpp>
+#include <eeui/ui/uimultimodelview.hpp>
+#include <eeui/ui/uipushbutton.hpp>
+#include <eeui/ui/uiselectbutton.hpp>
+#include <eeui/ui/uitextinput.hpp>
+#include <eeui/ui/uiwidget.hpp>
+#include <eeui/ui/uiwindow.hpp>
 
 namespace EE { namespace UI {
 

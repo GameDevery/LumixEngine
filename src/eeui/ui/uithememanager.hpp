@@ -1,8 +1,8 @@
 #ifndef EE_UICTHEMEMANAGER
 #define EE_UICTHEMEMANAGER
 
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/uitheme.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/uitheme.hpp>
 
 namespace EE { namespace UI {
 

@@ -1,7 +1,7 @@
 #ifndef EE_UI_UISTATE_HPP
 #define EE_UI_UISTATE_HPP
 
-#include <eepp/ui/base.hpp>
+#include <eeui/ui/base.hpp>
 
 namespace EE { namespace UI {
 

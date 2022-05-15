@@ -4,8 +4,8 @@
 #include <eepp/core.hpp>
 #include <eepp/system/functionstring.hpp>
 #include <eepp/system/singleton.hpp>
-#include <eepp/ui/css/drawableimageparser.hpp>
-#include <eepp/ui/css/shorthanddefinition.hpp>
+#include <eeui/ui/css/drawableimageparser.hpp>
+#include <eeui/ui/css/shorthanddefinition.hpp>
 #include <functional>
 
 namespace EE { namespace UI {

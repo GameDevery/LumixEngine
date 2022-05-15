@@ -1,7 +1,7 @@
 #ifndef UI_UILINEARLAYOUT_HPP
 #define UI_UILINEARLAYOUT_HPP
 
-#include <eepp/ui/uilayout.hpp>
+#include <eeui/ui/uilayout.hpp>
 
 namespace EE { namespace UI {
 

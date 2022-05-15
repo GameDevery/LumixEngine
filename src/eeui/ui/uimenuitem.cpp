@@ -1,5 +1,5 @@
-#include <eepp/ui/uimenu.hpp>
-#include <eepp/ui/uimenuitem.hpp>
+#include <eeui/ui/uimenu.hpp>
+#include <eeui/ui/uimenuitem.hpp>
 
 namespace EE { namespace UI {
 

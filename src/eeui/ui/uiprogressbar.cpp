@@ -1,8 +1,8 @@
 #include <eepp/graphics/globaltextureatlas.hpp>
 #include <eepp/scene/scenenode.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/uiprogressbar.hpp>
-#include <eepp/ui/uithememanager.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/uiprogressbar.hpp>
+#include <eeui/ui/uithememanager.hpp>
 
 namespace EE { namespace UI {
 

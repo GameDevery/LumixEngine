@@ -2,14 +2,14 @@
 #define EE_UIUINODE_HPP
 
 #include <eepp/scene/node.hpp>
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/css/stylesheetlength.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/uihelper.hpp>
-#include <eepp/ui/uiskin.hpp>
-#include <eepp/ui/uiskinstate.hpp>
-#include <eepp/ui/uistate.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/stylesheetlength.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/uihelper.hpp>
+#include <eeui/ui/uiskin.hpp>
+#include <eeui/ui/uiskinstate.hpp>
+#include <eeui/ui/uistate.hpp>
 
 namespace EE { namespace Graphics {
 class Drawable;

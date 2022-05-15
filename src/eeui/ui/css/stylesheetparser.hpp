@@ -3,9 +3,9 @@
 
 #include <eepp/core/string.hpp>
 #include <eepp/system/iostream.hpp>
-#include <eepp/ui/css/mediaquery.hpp>
-#include <eepp/ui/css/stylesheet.hpp>
-#include <eepp/ui/css/stylesheetpropertiesparser.hpp>
+#include <eeui/ui/css/mediaquery.hpp>
+#include <eeui/ui/css/stylesheet.hpp>
+#include <eeui/ui/css/stylesheetpropertiesparser.hpp>
 #include <iostream>
 #include <map>
 #include <string>

@@ -1,7 +1,7 @@
 #ifndef EE_UI_UILISTVIEW_HPP
 #define EE_UI_UILISTVIEW_HPP
 
-#include <eepp/ui/uitableview.hpp>
+#include <eeui/ui/uitableview.hpp>
 
 namespace EE { namespace UI {
 

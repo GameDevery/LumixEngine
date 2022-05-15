@@ -7,7 +7,7 @@
 #include <eepp/system/iostreammemory.hpp>
 #include <eepp/system/log.hpp>
 #include <eepp/system/packmanager.hpp>
-#include <eepp/ui/doc/syntaxcolorscheme.hpp>
+#include <eeui/ui/doc/syntaxcolorscheme.hpp>
 
 using namespace EE::Graphics;
 

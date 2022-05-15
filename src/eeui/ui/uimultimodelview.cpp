@@ -1,4 +1,4 @@
-#include <eepp/ui/uimultimodelview.hpp>
+#include <eeui/ui/uimultimodelview.hpp>
 
 namespace EE { namespace UI {
 

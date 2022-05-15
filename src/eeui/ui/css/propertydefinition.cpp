@@ -1,7 +1,7 @@
 #include <algorithm>
 #include <eepp/core.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/css/propertyspecification.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/propertyspecification.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

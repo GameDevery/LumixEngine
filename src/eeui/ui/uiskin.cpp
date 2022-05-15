@@ -1,7 +1,7 @@
 #include <eepp/graphics/ninepatch.hpp>
 #include <eepp/graphics/textureregion.hpp>
-#include <eepp/ui/uiskin.hpp>
-#include <eepp/ui/uistate.hpp>
+#include <eeui/ui/uiskin.hpp>
+#include <eeui/ui/uistate.hpp>
 
 namespace EE { namespace UI {
 

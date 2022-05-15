@@ -2,9 +2,9 @@
 #define EE_UI_CSS_ELEMENTDEFINITION_HPP
 
 #include <eepp/core/noncopyable.hpp>
-#include <eepp/ui/css/propertyidset.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/css/stylesheetstyle.hpp>
+#include <eeui/ui/css/propertyidset.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/stylesheetstyle.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

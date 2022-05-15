@@ -2,14 +2,14 @@
 #include <eepp/core/string.hpp>
 #include <eepp/graphics/pixeldensity.hpp>
 #include <eepp/graphics/text.hpp>
-#include <eepp/ui/css/propertydefinition.hpp>
-#include <eepp/ui/css/shorthanddefinition.hpp>
-#include <eepp/ui/css/stylesheetlength.hpp>
-#include <eepp/ui/css/stylesheetproperty.hpp>
-#include <eepp/ui/css/stylesheetselectorrule.hpp>
-#include <eepp/ui/css/stylesheetspecification.hpp>
-#include <eepp/ui/uihelper.hpp>
-#include <eepp/ui/uinode.hpp>
+#include <eeui/ui/css/propertydefinition.hpp>
+#include <eeui/ui/css/shorthanddefinition.hpp>
+#include <eeui/ui/css/stylesheetlength.hpp>
+#include <eeui/ui/css/stylesheetproperty.hpp>
+#include <eeui/ui/css/stylesheetselectorrule.hpp>
+#include <eeui/ui/css/stylesheetspecification.hpp>
+#include <eeui/ui/uihelper.hpp>
+#include <eeui/ui/uinode.hpp>
 
 namespace EE { namespace UI { namespace CSS {
 

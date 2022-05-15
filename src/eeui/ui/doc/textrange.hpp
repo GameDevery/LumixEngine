@@ -1,7 +1,7 @@
 #ifndef EE_UI_DOC_TEXTRANGE_HPP
 #define EE_UI_DOC_TEXTRANGE_HPP
 
-#include <eepp/ui/doc/textposition.hpp>
+#include <eeui/ui/doc/textposition.hpp>
 
 namespace EE { namespace UI { namespace Doc {
 

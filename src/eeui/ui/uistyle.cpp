@@ -1,12 +1,12 @@
 #include <eepp/graphics/fontmanager.hpp>
 #include <eepp/scene/actions/actions.hpp>
 #include <eepp/system/functionstring.hpp>
-#include <eepp/ui/css/stylesheetpropertyanimation.hpp>
-#include <eepp/ui/css/stylesheetspecification.hpp>
-#include <eepp/ui/uiscenenode.hpp>
-#include <eepp/ui/uistyle.hpp>
-#include <eepp/ui/uithememanager.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/css/stylesheetpropertyanimation.hpp>
+#include <eeui/ui/css/stylesheetspecification.hpp>
+#include <eeui/ui/uiscenenode.hpp>
+#include <eeui/ui/uistyle.hpp>
+#include <eeui/ui/uithememanager.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 using namespace EE::UI::CSS;
 using namespace EE::Scene;

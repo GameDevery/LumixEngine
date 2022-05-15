@@ -1,5 +1,5 @@
-#include <eepp/ui/models/widgettreemodel.hpp>
-#include <eepp/ui/uiwidget.hpp>
+#include <eeui/ui/models/widgettreemodel.hpp>
+#include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI { namespace Models {
 

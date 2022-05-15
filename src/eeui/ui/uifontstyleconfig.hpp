@@ -2,8 +2,8 @@
 #define EE_UICUITHEMECONFIG_HPP
 
 #include <eepp/graphics/fontstyleconfig.hpp>
-#include <eepp/ui/base.hpp>
-#include <eepp/ui/uihelper.hpp>
+#include <eeui/ui/base.hpp>
+#include <eeui/ui/uihelper.hpp>
 
 namespace EE { namespace Graphics {
 class Font;

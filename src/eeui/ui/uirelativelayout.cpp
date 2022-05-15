@@ -1,5 +1,5 @@
-#include <eepp/ui/uirelativelayout.hpp>
-#include <eepp/ui/uiscenenode.hpp>
+#include <eeui/ui/uirelativelayout.hpp>
+#include <eeui/ui/uiscenenode.hpp>
 
 namespace EE { namespace UI {
 
