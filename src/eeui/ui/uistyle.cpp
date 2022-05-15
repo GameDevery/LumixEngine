@@ -1,6 +1,6 @@
 #include <eepp/graphics/fontmanager.hpp>
-#include <eepp/scene/actions/actions.hpp>
-#include <eepp/system/functionstring.hpp>
+#include <eepp_support/scene/actions/actions.hpp>
+#include <eepp_support/functionstring.hpp>
 #include <eeui/ui/css/stylesheetpropertyanimation.hpp>
 #include <eeui/ui/css/stylesheetspecification.hpp>
 #include <eeui/ui/uiscenenode.hpp>

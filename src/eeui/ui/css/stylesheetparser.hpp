@@ -1,7 +1,7 @@
 #ifndef EE_UI_CSS_STYLESHEETPARSER
 #define EE_UI_CSS_STYLESHEETPARSER
 
-#include <eepp/core/string.hpp>
+#include <eepp_support/string.hpp>
 #include <eepp/system/iostream.hpp>
 #include <eeui/ui/css/mediaquery.hpp>
 #include <eeui/ui/css/stylesheet.hpp>

@@ -1,8 +1,7 @@
 #ifndef EE_UI_MODELS_MODEL_HPP
 #define EE_UI_MODELS_MODEL_HPP
 
-#include <eepp/system/lock.hpp>
-#include <eepp/system/mutex.hpp>
+#include <engine/sync.h>
 #include <eeui/ui/models/modelindex.hpp>
 #include <eeui/ui/models/modelrole.hpp>
 #include <eeui/ui/models/variant.hpp>
@@ -136,11 +135,11 @@ class EE_API Model {
 	void endDeleteRows();
 	void endDeleteColumns();
 
-	Mutex& resourceMutex();
+	Lumix::Mutex& resourceMutex();
 
-	void acquireResourceMutex() { mResourceLock.lock(); }
+	void acquireResourceMutex() { mResourceLock.enter(); }
 
-	void releaseResourceMutex() { mResourceLock.unlock(); }
+	void releaseResourceMutex() { mResourceLock.exit(); }
 
   protected:
 	Model(){};
@@ -203,7 +202,7 @@ class EE_API Model {
 	std::unordered_set<UIAbstractView*> mViews;
 	std::unordered_set<Client*> mClients;
 	std::function<void()> mOnUpdate;
-	Mutex mResourceLock;
+	Lumix::Mutex mResourceLock;
 };
 
 inline ModelIndex ModelIndex::parent() const {

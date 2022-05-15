@@ -1,7 +1,7 @@
 #ifndef EE_UI_DOC_SYNTAXCOLORSCHEME_HPP
 #define EE_UI_DOC_SYNTAXCOLORSCHEME_HPP
 
-#include <eepp/system/color.hpp>
+#include <eepp_support/color.hpp>
 #include <eepp/system/iostream.hpp>
 #include <eepp/system/pack.hpp>
 #include <unordered_map>

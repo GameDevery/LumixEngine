@@ -1,11 +1,12 @@
-#include <eepp/scene/actions/actions.hpp>
-#include <eepp/scene/scenemanager.hpp>
-#include <eepp/scene/scenenode.hpp>
+#include <eepp_support/scene/actions/actions.hpp>
+#include <eepp_support/scene/scenemanager.hpp>
+#include <eepp_support/scene/scenenode.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <eeui/ui/uidropdownlist.hpp>
 #include <eeui/ui/uiscenenode.hpp>
 #include <eeui/ui/uithememanager.hpp>
-#include <pugixml/pugixml.hpp>
+#include <eepp_support/thirdparty/pugixml/pugixml.hpp>
+#include <eepp_support/thirdparty/PlusCallback/callback.hpp>
 
 namespace EE { namespace UI {
 

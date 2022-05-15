@@ -3,7 +3,7 @@
 #include <eepp/network/uri.hpp>
 #include <eepp/system/clock.hpp>
 #include <eepp/system/filesystem.hpp>
-#include <eepp/system/functionstring.hpp>
+#include <eepp_support/functionstring.hpp>
 #include <eepp/system/iostreamfile.hpp>
 #include <eepp/system/iostreammemory.hpp>
 #include <eepp/system/log.hpp>

@@ -1,7 +1,7 @@
 #ifndef EE_UI_UIICON_HPP
 #define EE_UI_UIICON_HPP
 
-#include <eepp/core/core.hpp>
+#include <eepp_support/core.hpp>
 #include <eepp/graphics/drawable.hpp>
 
 namespace EE { namespace Graphics {

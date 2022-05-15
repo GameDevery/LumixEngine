@@ -1,4 +1,4 @@
-#include <eepp/core.hpp>
+#include <eepp_support/core.hpp>
 #include <eepp/graphics/vertexbuffer.hpp>
 #include <eeui/ui/uiborderdrawable.hpp>
 #include <eeui/ui/uinode.hpp>

@@ -1,4 +1,4 @@
-#include <eepp/core/string.hpp>
+#include <eepp_support/string.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <eeui/ui/css/transitiondefinition.hpp>
 

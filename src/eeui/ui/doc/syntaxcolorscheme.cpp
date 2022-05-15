@@ -1,4 +1,4 @@
-#include <eepp/core/string.hpp>
+#include <eepp_support/string.hpp>
 #include <eepp/graphics/text.hpp>
 #include <eepp/system/clock.hpp>
 #include <eepp/system/filesystem.hpp>

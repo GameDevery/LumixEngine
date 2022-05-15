@@ -3,7 +3,7 @@
 #include <eepp/graphics/fonttruetype.hpp>
 #include <eepp/graphics/primitives.hpp>
 #include <eepp/graphics/text.hpp>
-#include <eepp/scene/scenemanager.hpp>
+#include <eepp_support/scene/scenemanager.hpp>
 #include <eepp/system/luapattern.hpp>
 #include <eeui/ui/doc/syntaxdefinitionmanager.hpp>
 #include <eeui/ui/tools/uicolorpicker.hpp>

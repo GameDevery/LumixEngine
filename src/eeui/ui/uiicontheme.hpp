@@ -1,6 +1,7 @@
 #ifndef EE_UI_UIICONTHEME_HPP
 #define EE_UI_UIICONTHEME_HPP
 
+#include <eepp_support/config.hpp>
 #include <eepp/graphics/drawable.hpp>
 #include <eeui/ui/uiicon.hpp>
 #include <unordered_map>

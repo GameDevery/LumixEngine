@@ -1,12 +1,12 @@
 #include <algorithm>
-#include <eepp/core/string.hpp>
+#include <eepp_support/string.hpp>
 #include <eepp/graphics/fontmanager.hpp>
 #include <eepp/graphics/fonttruetype.hpp>
 #include <eepp/network/http.hpp>
 #include <eepp/network/uri.hpp>
 #include <eepp/scene/scenemanager.hpp>
 #include <eepp/system/filesystem.hpp>
-#include <eepp/system/functionstring.hpp>
+#include <eepp_support/functionstring.hpp>
 #include <eepp/system/packmanager.hpp>
 #include <eepp/system/virtualfilesystem.hpp>
 #include <eeui/ui/css/mediaquery.hpp>
@@ -20,7 +20,7 @@
 #include <eeui/ui/uiwidgetcreator.hpp>
 #include <eeui/ui/uiwindow.hpp>
 #include <eepp/window/window.hpp>
-#include <pugixml/pugixml.hpp>
+#include <eepp_support/thirdparty/pugixml/pugixml.hpp>
 
 using namespace EE::Network;
 

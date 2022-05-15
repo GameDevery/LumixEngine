@@ -1,14 +1,14 @@
 #ifndef EE_UI_CSS_STYLESHEETPROPERTY_HPP
 #define EE_UI_CSS_STYLESHEETPROPERTY_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/core/string.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/string.hpp>
 #include <eepp/graphics/blendmode.hpp>
-#include <eepp/math/ease.hpp>
-#include <eepp/math/originpoint.hpp>
-#include <eepp/math/rect.hpp>
-#include <eepp/system/color.hpp>
-#include <eepp/system/time.hpp>
+#include <eepp_support/ease.hpp>
+#include <eepp_support/originpoint.hpp>
+#include <eepp_support/rect.hpp>
+#include <eepp_support/color.hpp>
+#include <eepp_support/time.hpp>
 #include <map>
 #include <string>
 

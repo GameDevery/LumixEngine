@@ -1,7 +1,7 @@
 #ifndef EE_UI_CSS_ELEMENTDEFINITION_HPP
 #define EE_UI_CSS_ELEMENTDEFINITION_HPP
 
-#include <eepp/core/noncopyable.hpp>
+#include <eepp_support/noncopyable.hpp>
 #include <eeui/ui/css/propertyidset.hpp>
 #include <eeui/ui/css/stylesheetproperty.hpp>
 #include <eeui/ui/css/stylesheetstyle.hpp>

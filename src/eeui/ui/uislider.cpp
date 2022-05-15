@@ -1,5 +1,5 @@
 #include <eepp/graphics/textureregion.hpp>
-#include <eepp/scene/eventdispatcher.hpp>
+#include <eepp_support/scene/eventdispatcher.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <eeui/ui/uiscenenode.hpp>
 #include <eeui/ui/uislider.hpp>

@@ -1,8 +1,8 @@
 #ifndef EE_UI_DOC_SYNTAXSTYLEMANAGER_HPP
 #define EE_UI_DOC_SYNTAXSTYLEMANAGER_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/system/singleton.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/singleton.hpp>
 #include <eeui/ui/doc/syntaxdefinition.hpp>
 #include <vector>
 

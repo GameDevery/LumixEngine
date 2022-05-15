@@ -1,5 +1,5 @@
 #include <eepp/graphics/globaltextureatlas.hpp>
-#include <eepp/scene/scenenode.hpp>
+#include <eepp_support/scene/scenenode.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <eeui/ui/uiprogressbar.hpp>
 #include <eeui/ui/uithememanager.hpp>

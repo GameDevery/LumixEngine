@@ -2,8 +2,8 @@
 #define EE_UI_UINODEDRAWABLE_HPP
 
 #include <eepp/graphics/drawable.hpp>
-#include <eepp/math/ease.hpp>
-#include <eepp/scene/action.hpp>
+#include <eepp_support/ease.hpp>
+#include <eepp_support/scene/action.hpp>
 #include <eeui/ui/uibackgrounddrawable.hpp>
 #include <map>
 #include <vector>

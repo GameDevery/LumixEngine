@@ -1,9 +1,9 @@
 #ifndef EE_UI_CSS_STYLESHEETSPECIFICATION_HPP
 #define EE_UI_CSS_STYLESHEETSPECIFICATION_HPP
 
-#include <eepp/core.hpp>
-#include <eepp/system/functionstring.hpp>
-#include <eepp/system/singleton.hpp>
+#include <eepp_support/core.hpp>
+#include <eepp_support/functionstring.hpp>
+#include <eepp_support/singleton.hpp>
 #include <eeui/ui/css/drawableimageparser.hpp>
 #include <eeui/ui/css/shorthanddefinition.hpp>
 #include <functional>

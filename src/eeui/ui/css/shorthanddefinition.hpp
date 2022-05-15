@@ -1,8 +1,8 @@
 #ifndef EE_UI_CSS_SHORTHANDDEFINITION_HPP
 #define EE_UI_CSS_SHORTHANDDEFINITION_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/core/string.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/string.hpp>
 #include <eeui/ui/css/stylesheetproperty.hpp>
 #include <functional>
 

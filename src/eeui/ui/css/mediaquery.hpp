@@ -1,7 +1,7 @@
 #ifndef EE_UI_CSS_MEDIAQUERY_HPP
 #define EE_UI_CSS_MEDIAQUERY_HPP
 
-#include <eepp/core.hpp>
+#include <eepp_support/core.hpp>
 #include <memory>
 
 namespace EE { namespace UI { namespace CSS {

@@ -1,7 +1,7 @@
 #ifndef EE_UI_DOC_TEXTDOCUMENTLINE_HPP
 #define EE_UI_DOC_TEXTDOCUMENTLINE_HPP
 
-#include <eepp/core/string.hpp>
+#include <eepp_support/string.hpp>
 
 namespace EE { namespace UI { namespace Doc {
 

@@ -1,5 +1,6 @@
 #include <eeui/ui/css/mediaquery.hpp>
 #include <eeui/ui/css/stylesheetlength.hpp>
+#include <eepp_support/math.hpp>
 #include <eepp/window/displaymanager.hpp>
 #include <eepp/window/engine.hpp>
 #include <eepp/window/window.hpp>

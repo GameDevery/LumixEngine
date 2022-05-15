@@ -1,8 +1,8 @@
 #ifndef EE_UI_DOC_DEFINITION_HPP
 #define EE_UI_DOC_DEFINITION_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/core/string.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/string.hpp>
 #include <string>
 #include <unordered_map>
 #include <vector>

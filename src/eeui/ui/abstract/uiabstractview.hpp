@@ -1,6 +1,8 @@
 #ifndef EE_UI_UIABSTRACTVIEW_HPP
 #define EE_UI_UIABSTRACTVIEW_HPP
 
+#include <eepp_support/config.hpp>
+#include <eepp_support/scene/event.hpp>
 #include <eeui/ui/models/model.hpp>
 #include <eeui/ui/models/modeleditingdelegate.hpp>
 #include <eeui/ui/models/modelselection.hpp>

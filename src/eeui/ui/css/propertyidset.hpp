@@ -1,6 +1,7 @@
 #ifndef EE_UI_CSS_PROPERTYIDSET_HPP
 #define EE_UI_CSS_PROPERTYIDSET_HPP
 
+#include <eeui/ui/base.hpp>
 #include <bitset>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <set>

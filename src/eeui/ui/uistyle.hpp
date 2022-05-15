@@ -2,7 +2,7 @@
 #define EE_UI_UISTYLE_HPP
 
 #include <eepp/graphics/fontstyleconfig.hpp>
-#include <eepp/math/ease.hpp>
+#include <eepp_support/ease.hpp>
 #include <eeui/ui/css/animationdefinition.hpp>
 #include <eeui/ui/css/elementdefinition.hpp>
 #include <eeui/ui/css/stylesheetproperty.hpp>

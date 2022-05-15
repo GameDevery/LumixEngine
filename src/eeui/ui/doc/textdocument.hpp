@@ -2,14 +2,14 @@
 #define EE_UI_DOC_TEXTDOCUMENT
 
 #include <atomic>
-#include <eepp/core/string.hpp>
+#include <eepp_support/string.hpp>
 #include <eepp/network/http.hpp>
-#include <eepp/system/clock.hpp>
+#include <eepp_support/clock.hpp>
 #include <eepp/system/fileinfo.hpp>
 #include <eepp/system/iostreamfile.hpp>
 #include <eepp/system/pack.hpp>
 #include <eepp/system/threadpool.hpp>
-#include <eepp/system/time.hpp>
+#include <eepp_support/time.hpp>
 #include <eeui/ui/doc/syntaxdefinition.hpp>
 #include <eeui/ui/doc/textdocumentline.hpp>
 #include <eeui/ui/doc/textposition.hpp>

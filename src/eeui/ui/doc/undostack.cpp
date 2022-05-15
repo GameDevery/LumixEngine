@@ -1,4 +1,4 @@
-#include <eepp/core/core.hpp>
+#include <eepp_support/core.hpp>
 #include <eeui/ui/doc/textdocument.hpp>
 #include <eeui/ui/doc/undostack.hpp>
 

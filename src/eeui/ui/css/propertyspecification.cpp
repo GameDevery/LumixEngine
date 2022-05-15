@@ -1,5 +1,5 @@
-#include <eepp/core/core.hpp>
-#include <eepp/system/log.hpp>
+#include <eepp_support/core.hpp>
+#include <eepp_support/log.hpp>
 #include <eeui/ui/css/propertyspecification.hpp>
 
 namespace EE { namespace UI { namespace CSS {

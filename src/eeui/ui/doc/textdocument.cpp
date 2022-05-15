@@ -1,6 +1,6 @@
 ﻿#include <algorithm>
 #include <cstdio>
-#include <eepp/core/debug.hpp>
+#include <eepp_support/debug.hpp>
 #include <eepp/network/uri.hpp>
 #include <eepp/system/filesystem.hpp>
 #include <eepp/system/iostreamfile.hpp>

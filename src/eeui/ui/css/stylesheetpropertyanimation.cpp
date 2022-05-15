@@ -1,5 +1,5 @@
 #include <algorithm>
-#include <eepp/math/easing.hpp>
+#include <eepp_support/easing.hpp>
 #include <eeui/ui/border.hpp>
 #include <eeui/ui/css/stylesheetpropertyanimation.hpp>
 #include <eeui/ui/css/stylesheetspecification.hpp>

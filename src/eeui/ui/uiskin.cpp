@@ -2,6 +2,7 @@
 #include <eepp/graphics/textureregion.hpp>
 #include <eeui/ui/uiskin.hpp>
 #include <eeui/ui/uistate.hpp>
+#include <eepp_support/size.hpp>
 
 namespace EE { namespace UI {
 

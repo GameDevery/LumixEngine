@@ -6,7 +6,7 @@
 #include <eeui/ui/uipopupmenu.hpp>
 #include <eeui/ui/uiscenenode.hpp>
 #include <eeui/ui/uithememanager.hpp>
-#include <pugixml/pugixml.hpp>
+#include <eepp_support/thirdparty/pugixml/pugixml.hpp>
 
 namespace EE { namespace UI {
 

@@ -1,8 +1,8 @@
 #ifndef EE_UI_KEYBOARDSHORTCUT_HPP
 #define EE_UI_KEYBOARDSHORTCUT_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/window/keycodes.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/keycodes.hpp>
 #include <map>
 #include <string>
 #include <unordered_map>

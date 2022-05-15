@@ -2,9 +2,9 @@
 #define EE_UI_DOC_UNDOSTACK_HPP
 
 #include <deque>
-#include <eepp/config.hpp>
-#include <eepp/core/string.hpp>
-#include <eepp/system/time.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/string.hpp>
+#include <eepp_support/time.hpp>
 #include <eeui/ui/doc/textrange.hpp>
 #include <memory>
 

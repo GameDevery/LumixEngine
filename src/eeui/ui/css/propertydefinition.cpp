@@ -1,5 +1,5 @@
 #include <algorithm>
-#include <eepp/core.hpp>
+#include <eepp_support/core.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <eeui/ui/css/propertyspecification.hpp>
 

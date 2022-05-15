@@ -1,8 +1,8 @@
 #ifndef EE_UI_DOC_TEXTPOSITION_HPP
 #define EE_UI_DOC_TEXTPOSITION_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/core/string.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/string.hpp>
 #include <string>
 
 namespace EE { namespace UI { namespace Doc {

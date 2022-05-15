@@ -1,8 +1,8 @@
 #ifndef EE_UI_DOC_SYNTAXTOKENIZER_HPP
 #define EE_UI_DOC_SYNTAXTOKENIZER_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/core/string.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/string.hpp>
 #include <eeui/ui/doc/syntaxdefinition.hpp>
 #include <string>
 

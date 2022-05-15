@@ -1,5 +1,5 @@
-#include <eepp/core/memorymanager.hpp>
-#include <eepp/core/string.hpp>
+#include <eepp_support/memorymanager.hpp>
+#include <eepp_support/string.hpp>
 #include <eeui/ui/doc/syntaxdefinition.hpp>
 
 namespace EE { namespace UI { namespace Doc {

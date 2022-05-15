@@ -1,4 +1,4 @@
-#include <eepp/scene/eventdispatcher.hpp>
+#include <eepp_support/scene/eventdispatcher.hpp>
 #include <eeui/ui/uiscenenode.hpp>
 #include <eeui/ui/uisplitter.hpp>
 

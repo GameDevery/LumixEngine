@@ -1,0 +1,118 @@
+#ifndef EE_UICUIEVENT_HPP
+#define EE_UICUIEVENT_HPP
+
+#include <eepp_support/config.hpp>
+
+namespace EE { namespace Scene {
+
+class Node;
+
+class EE_API Event {
+  public:
+	enum EventType {
+		KeyDown = 0,
+		KeyUp,
+		TextInput,
+		MouseMove,
+		MouseDown,
+		MouseClick,
+		MouseDoubleClick,
+		MouseUp,
+		MouseOver,
+		MouseLeave,
+		OnFocus,
+		OnFocusLoss,
+		OnVisibleChange,
+		OnEnabledChange,
+		OnPositionChange,
+		OnSizeChange,
+		OnAngleChange,
+		OnScaleChange,
+		OnAlphaChange,
+		OnTextChanged,
+		OnFontChanged,
+		OnDocumentLoaded,
+		OnDocumentChanged,
+		OnDocumentClosed,
+		OnDocumentSyntaxDefinitionChange,
+		OnDocumentDirtyOnFileSysten,
+		OnFontStyleChanged,
+		OnPressEnter,
+		OnValueChange,
+		OnWidgetFocusLoss,
+		OnItemClicked,
+		OnItemKeyDown,
+		OnItemKeyUp,
+		OnItemSelected,
+		OnCursorPosChange,
+		OnParentSizeChange,
+		OnWindowClose,
+		OnWindowCloseClick,
+		OnWindowMaximizeClick,
+		OnWindowMinimizeClick,
+		OpenFile,
+		SaveFile,
+		OnClear,
+		MsgBoxConfirmClick,
+		MsgBoxCancelClick,
+		OnTabSelected,
+		OnTabAdded,
+		OnTabClosed,
+		OnTabNavigate,
+		OnClose, // Warning: Only some nodes will report this event.
+		OnDragStart,
+		OnDragStop,
+		OnPaddingChange,
+		OnBufferChange,
+		OnUpdateScreenPosition,
+		OnPageChanged,
+		OnMarginChange,
+		OnTagChange,
+		OnIdChange,
+		OnClassChange,
+		OnLayoutUpdate,
+		OnSelectionChanged,
+		OnNodeDropped,
+		OnDocumentSave,
+		OnModelEvent,
+		OnResourceChange,
+		OnActiveWidgetChange,
+		OnWindowReady,
+		OnCreateContextMenu,
+		OnDocumentMoved,
+		UserEvent,
+		OnMenuShow,
+		OnMenuHide,
+		NoEvent = eeINDEX_NOT_FOUND
+	};
+
+	Event( Node* node, const Uint32& eventType = NoEvent );
+
+	~Event();
+
+	Node* getNode() const;
+
+	const Uint32& getType() const;
+
+	const Uint32& getCallbackId() const;
+
+  protected:
+	friend class Node;
+	Node* mNode;
+	Uint32 mEventType;
+	Uint32 mCallbackId;
+};
+
+class EE_API DropEvent : public Event {
+  public:
+	DropEvent( Node* node, Node* droppedNode, const Uint32& eventType ) :
+		Event( node, eventType ), droppedNode( droppedNode ) {}
+	Node* getDroppedNode() const { return droppedNode; }
+
+  protected:
+	Node* droppedNode;
+};
+
+}} // namespace EE::Scene
+
+#endif

@@ -1,7 +1,7 @@
 #ifndef EE_UIEVENTDISPATCHER_HPP
 #define EE_UIEVENTDISPATCHER_HPP
 
-#include <eepp/scene/eventdispatcher.hpp>
+#include <eepp_support/scene/eventdispatcher.hpp>
 using namespace EE::Scene;
 
 namespace EE { namespace UI {

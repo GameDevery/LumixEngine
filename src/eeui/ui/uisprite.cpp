@@ -1,7 +1,7 @@
 #include <eepp/graphics/drawablesearcher.hpp>
 #include <eepp/graphics/globaltextureatlas.hpp>
 #include <eepp/graphics/sprite.hpp>
-#include <eepp/scene/scenenode.hpp>
+#include <eepp_support/scene/scenenode.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <eeui/ui/uisprite.hpp>
 

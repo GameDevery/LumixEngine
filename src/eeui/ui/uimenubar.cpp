@@ -1,10 +1,10 @@
 #include <eepp/graphics/textureregion.hpp>
-#include <eepp/scene/scenemanager.hpp>
+#include <eepp_support/scene/scenemanager.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <eeui/ui/uimenubar.hpp>
 #include <eeui/ui/uiscenenode.hpp>
 #include <eeui/ui/uithememanager.hpp>
-#include <pugixml/pugixml.hpp>
+#include <eepp_support/thirdparty/pugixml/pugixml.hpp>
 
 namespace EE { namespace UI {
 

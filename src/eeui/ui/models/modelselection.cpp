@@ -1,4 +1,4 @@
-#include <eepp/core.hpp>
+#include <eepp_support/core.hpp>
 #include <eeui/ui/abstract/uiabstractview.hpp>
 #include <eeui/ui/models/modelselection.hpp>
 

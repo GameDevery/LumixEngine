@@ -1,8 +1,8 @@
-#include <eepp/core/core.hpp>
+#include <eepp_support/core.hpp>
 #include <eepp/graphics/drawableresource.hpp>
 #include <eepp/graphics/renderer/renderer.hpp>
-#include <eepp/math/easing.hpp>
-#include <eepp/system/functionstring.hpp>
+#include <eepp_support/easing.hpp>
+#include <eepp_support/functionstring.hpp>
 #include <eeui/ui/css/stylesheetlength.hpp>
 #include <eeui/ui/css/stylesheetspecification.hpp>
 #include <eeui/ui/uinode.hpp>

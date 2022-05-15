@@ -1,10 +1,10 @@
 #ifndef EE_UI_MODEL_VARIANT_HPP
 #define EE_UI_MODEL_VARIANT_HPP
 
-#include <eepp/core/core.hpp>
+#include <eepp_support/core.hpp>
 #include <eepp/graphics/drawable.hpp>
 #include <eepp/graphics/drawableresource.hpp>
-#include <eepp/math/rect.hpp>
+#include <eepp_support/rect.hpp>
 #include <eeui/ui/uiicon.hpp>
 #include <string>
 

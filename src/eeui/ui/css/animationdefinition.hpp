@@ -1,8 +1,8 @@
 #ifndef EE_UI_CSS_ANIMATIONDEFINITION_HPP
 #define EE_UI_CSS_ANIMATIONDEFINITION_HPP
 
-#include <eepp/math/ease.hpp>
-#include <eepp/system/time.hpp>
+#include <eepp_support/ease.hpp>
+#include <eepp_support/time.hpp>
 #include <eeui/ui/css/stylesheetproperty.hpp>
 #include <unordered_map>
 #include <vector>

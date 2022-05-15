@@ -1,0 +1,123 @@
+#ifndef EE_EVENTDISPATCHER_HPP
+#define EE_EVENTDISPATCHER_HPP
+
+#include <eepp_support/core.hpp>
+#include <eepp_support/vector2.hpp>
+#include <eepp_support/time.hpp>
+#include <eepp_support/keycodes.hpp>
+#include <vector>
+
+using namespace EE::System;
+using namespace EE::Math;
+
+namespace EE { namespace Window {
+class Input;
+class InputEvent;
+class Window;
+}} // namespace EE::Window
+using namespace EE::Window;
+
+namespace EE { namespace Scene {
+
+class Node;
+class SceneNode;
+
+class EE_API EventDispatcher {
+  public:
+	static EventDispatcher* New( SceneNode* sceneNode );
+
+	EventDispatcher( SceneNode* sceneNode );
+
+	virtual ~EventDispatcher();
+
+	virtual void update( const Time& elapsed );
+
+	Input* getInput() const;
+
+	Node* getFocusNode() const;
+
+	void setFocusNode( Node* node );
+
+	Node* getMouseOverNode() const;
+
+	void setMouseOverNode( Node* node );
+
+	Node* getMouseDownNode() const;
+
+	void resetMouseDownNode();
+
+	Node* getLossFocusNode() const;
+
+	void sendMsg( Node* node, const Uint32& Msg, const Uint32& Flags = 0 );
+
+	void sendTextInput( const Uint32& textChar, const Uint32& timestamp );
+
+	void sendKeyUp( const Keycode& KeyCode, const Uint32& Char, const Uint32& Mod );
+
+	void sendKeyDown( const Keycode& KeyCode, const Uint32& Char, const Uint32& Mod );
+
+	void sendMouseClick( Node* toNode, const Vector2i& pos, const Uint32 flags );
+
+	void sendMouseUp( Node* toNode, const Vector2i& pos, const Uint32 flags );
+
+	void sendMouseDown( Node* toNode, const Vector2i& pos, const Uint32 flags );
+
+	const Uint32& getPressTrigger() const;
+
+	const Uint32& getLastPressTrigger() const;
+
+	const Uint32& getClickTrigger() const;
+
+	const Uint32& getDoubleClickTrigger() const;
+
+	const Uint32& getReleaseTrigger() const;
+
+	void setNodeDragging( Node* dragging );
+
+	bool isNodeDragging() const;
+
+	bool wasNodeDragging() const;
+
+	bool isOrWasNodeDragging() const;
+
+	Vector2i getMousePos();
+
+	Vector2f getMousePosf();
+
+	Vector2i getMouseDownPos();
+
+	Vector2f getLastMousePos();
+
+	SceneNode* getSceneNode() const;
+
+	const Time& getLastFrameTime() const;
+
+	Node* getNodeDragging() const;
+
+	Node* getNodeWasDragging() const;
+
+  protected:
+	EE::Window::Window* mWindow;
+	Input* mInput;
+	SceneNode* mSceneNode;
+	Node* mFocusNode;
+	Node* mOverNode;
+	Node* mDownNode;
+	Node* mLossFocusNode;
+	Vector2f mMousePos;
+	Vector2i mMousePosi;
+	Vector2f mLastMousePos;
+	Vector2i mMouseDownPos;
+	Vector2i mClickPos;
+	Int32 mCbId;
+	bool mFirstPress;
+	Node* mNodeWasDragging;
+	Node* mNodeDragging;
+	Time mElapsed;
+
+	virtual void inputCallback( InputEvent* event );
+};
+
+}} // namespace EE::Scene
+
+#endif

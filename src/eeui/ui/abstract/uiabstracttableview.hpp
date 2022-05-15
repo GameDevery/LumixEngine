@@ -1,7 +1,7 @@
 #ifndef EE_UI_UIABSTRACTTABLEVIEW_HPP
 #define EE_UI_UIABSTRACTTABLEVIEW_HPP
 
-#include <eepp/math/rect.hpp>
+#include <eepp_support/rect.hpp>
 #include <eeui/ui/abstract/uiabstractview.hpp>
 #include <eeui/ui/uitablecell.hpp>
 #include <eeui/ui/uitableheadercolumn.hpp>

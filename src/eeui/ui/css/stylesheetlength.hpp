@@ -1,8 +1,8 @@
 #ifndef EE_UI_CSS_STYLESHEETLENGTH_HPP
 #define EE_UI_CSS_STYLESHEETLENGTH_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/math/size.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/size.hpp>
 #include <eepp/scene/scenenode.hpp>
 #include <string>
 

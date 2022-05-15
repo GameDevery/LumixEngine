@@ -1,4 +1,4 @@
-#include <eepp/core/core.hpp>
+#include <eepp_support/core/core.hpp>
 #include <eeui/ui/uiicontheme.hpp>
 
 namespace EE { namespace UI {

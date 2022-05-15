@@ -736,7 +736,7 @@ bool FileSystemModel::handleFileEvent( const FileEvent& event ) {
 	bool ret;
 
 	{
-		Lock l( resourceMutex() );
+		Lumix::MutexGuard l( resourceMutex() );
 
 		ret = handleFileEventLocked( event );
 	}

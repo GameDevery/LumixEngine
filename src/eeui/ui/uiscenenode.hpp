@@ -1,7 +1,7 @@
 #ifndef EE_UISCENENODE_HPP
 #define EE_UISCENENODE_HPP
 
-#include <eepp/scene/scenenode.hpp>
+#include <eepp_support/scene/scenenode.hpp>
 #include <eepp/system/translator.hpp>
 #include <eeui/ui/css/stylesheet.hpp>
 #include <eeui/ui/keyboardshortcut.hpp>

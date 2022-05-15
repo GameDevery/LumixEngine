@@ -1,6 +1,6 @@
-#include <eepp/core/string.hpp>
+#include <eepp_support/string.hpp>
 #include <eepp/graphics/pixeldensity.hpp>
-#include <eepp/math/math.hpp>
+#include <eepp_support/math.hpp>
 #include <eeui/ui/css/stylesheetlength.hpp>
 
 using namespace EE::Graphics;

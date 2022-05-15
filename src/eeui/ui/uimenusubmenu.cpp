@@ -1,4 +1,4 @@
-#include <eepp/scene/scenenode.hpp>
+#include <eepp_support/scene/scenenode.hpp>
 #include <eeui/ui/uimenu.hpp>
 #include <eeui/ui/uimenusubmenu.hpp>
 

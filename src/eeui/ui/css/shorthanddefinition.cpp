@@ -1,6 +1,6 @@
 #include <algorithm>
-#include <eepp/core.hpp>
-#include <eepp/system/color.hpp>
+#include <eepp_support/core.hpp>
+#include <eepp_support/color.hpp>
 #include <eeui/ui/css/shorthanddefinition.hpp>
 #include <eeui/ui/css/stylesheetspecification.hpp>
 

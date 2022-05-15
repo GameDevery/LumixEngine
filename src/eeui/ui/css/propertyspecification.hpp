@@ -1,7 +1,7 @@
 #ifndef EE_UI_CSS_PROPERTYSPECIFICATION_HPP
 #define EE_UI_CSS_PROPERTYSPECIFICATION_HPP
 
-#include <eepp/system/singleton.hpp>
+#include <eepp_support/singleton.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <eeui/ui/css/shorthanddefinition.hpp>
 #include <memory>

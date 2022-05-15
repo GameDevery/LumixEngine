@@ -303,7 +303,7 @@ void Model::handleDelete( Operation const& operation ) {
 	}
 }
 
-Mutex& Model::resourceMutex() {
+Lumix::Mutex& Model::resourceMutex() {
 	return mResourceLock;
 }
 

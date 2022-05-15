@@ -1,7 +1,7 @@
 #ifndef EE_UI_CSS_STYLESHEETPROPERTYANIMATION_HPP
 #define EE_UI_CSS_STYLESHEETPROPERTYANIMATION_HPP
 
-#include <eepp/math/ease.hpp>
+#include <eepp_support/ease.hpp>
 #include <eepp/scene/action.hpp>
 #include <eeui/ui/css/animationdefinition.hpp>
 #include <eeui/ui/css/keyframesdefinition.hpp>

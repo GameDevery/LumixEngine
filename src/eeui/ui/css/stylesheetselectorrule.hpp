@@ -1,7 +1,7 @@
 ﻿#ifndef STYLESHEETSELECTORRULE_HPP
 #define STYLESHEETSELECTORRULE_HPP
 
-#include <eepp/core.hpp>
+#include <eepp_support/core.hpp>
 #include <eeui/ui/css/stylesheetspecification.hpp>
 
 namespace EE { namespace UI {

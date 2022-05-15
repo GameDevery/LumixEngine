@@ -1,7 +1,7 @@
 #ifndef EE_UIUINODE_HPP
 #define EE_UIUINODE_HPP
 
-#include <eepp/scene/node.hpp>
+#include <eepp_support/scene/node.hpp>
 #include <eeui/ui/base.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>
 #include <eeui/ui/css/stylesheetlength.hpp>

@@ -1,8 +1,8 @@
 #ifndef EE_UI_CSS_KEYFRAMESDEFINITION_HPP
 #define EE_UI_CSS_KEYFRAMESDEFINITION_HPP
 
-#include <eepp/math/ease.hpp>
-#include <eepp/system/time.hpp>
+#include <eepp_support/ease.hpp>
+#include <eepp_support/time.hpp>
 #include <eeui/ui/css/stylesheetproperty.hpp>
 #include <eeui/ui/css/stylesheetstyle.hpp>
 #include <map>

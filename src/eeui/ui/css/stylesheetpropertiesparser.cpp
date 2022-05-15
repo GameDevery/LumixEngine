@@ -1,4 +1,4 @@
-#include <eepp/math/rect.hpp>
+#include <eepp_support/rect.hpp>
 #include <eeui/ui/css/stylesheetpropertiesparser.hpp>
 #include <eeui/ui/css/stylesheetspecification.hpp>
 

@@ -1,5 +1,5 @@
 #include <algorithm>
-#include <eepp/core/string.hpp>
+#include <eepp_support/string.hpp>
 #include <eepp/graphics/pixeldensity.hpp>
 #include <eepp/graphics/text.hpp>
 #include <eeui/ui/css/propertydefinition.hpp>

@@ -1,8 +1,8 @@
 #ifndef EE_UI_MODEL_MODELINDEX_HPP
 #define EE_UI_MODEL_MODELINDEX_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/core/core.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/core.hpp>
 #include <eeui/ui/models/modelrole.hpp>
 #include <eeui/ui/models/variant.hpp>
 #include <limits>

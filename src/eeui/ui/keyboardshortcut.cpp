@@ -1,5 +1,6 @@
 #include <eeui/ui/keyboardshortcut.hpp>
 #include <eepp/window/input.hpp>
+#include <eepp_support/string.hpp>
 
 using namespace EE::Window;
 

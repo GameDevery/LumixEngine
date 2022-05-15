@@ -1,7 +1,7 @@
 #ifndef EE_UI_CSS_STYLESHEETPROPERTIESPARSER_HPP
 #define EE_UI_CSS_STYLESHEETPROPERTIESPARSER_HPP
 
-#include <eepp/core/string.hpp>
+#include <eepp_support/string.hpp>
 #include <eeui/ui/css/stylesheetproperty.hpp>
 #include <eeui/ui/css/stylesheetvariable.hpp>
 #include <map>

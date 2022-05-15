@@ -1,7 +1,7 @@
 #ifndef EE_UITUIITEMCONTAINER_HPP
 #define EE_UITUIITEMCONTAINER_HPP
 
-#include <eepp/scene/scenenode.hpp>
+#include <eepp_support/scene/scenenode.hpp>
 #include <eeui/ui/uiwidget.hpp>
 
 namespace EE { namespace UI {

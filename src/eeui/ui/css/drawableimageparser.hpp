@@ -1,9 +1,9 @@
 #ifndef EE_UI_CSS_DRAWABLEIMAGEPARSER_HPP
 #define EE_UI_CSS_DRAWABLEIMAGEPARSER_HPP
 
-#include <eepp/core.hpp>
-#include <eepp/math/size.hpp>
-#include <eepp/system/functionstring.hpp>
+#include <eepp_support/core.hpp>
+#include <eepp_support/size.hpp>
+#include <eepp_support/functionstring.hpp>
 #include <functional>
 #include <map>
 

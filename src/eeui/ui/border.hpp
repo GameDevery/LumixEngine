@@ -1,9 +1,9 @@
 #ifndef EE_BORDER_HPP
 #define EE_BORDER_HPP
 
-#include <eepp/config.hpp>
-#include <eepp/math/size.hpp>
-#include <eepp/system/color.hpp>
+#include <eepp_support/config.hpp>
+#include <eepp_support/size.hpp>
+#include <eepp_support/color.hpp>
 
 namespace EE { namespace Graphics {
 class VertexBuffer;
